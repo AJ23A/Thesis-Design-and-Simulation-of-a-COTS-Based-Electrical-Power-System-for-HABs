@@ -1,0 +1,138 @@
+\chapter{Validación y Verificación del Sistema}
+
+En este capítulo, se aborda la validación del Sistema de Energía (EPS), donde se llevan a cabo pruebas detalladas para verificar el cumplimiento de los requisitos establecidos previamente. Estas pruebas abarcan diversas áreas, incluyendo condiciones ambientales (Tabla \ref{tab:enviromentaltest}), parámetros eléctricos (Tabla \ref{tab:voltagecurrentmeasurement}), masa y longitud (Tablas \ref{tab:MassMeasurement} y \ref{tab:dimensionmeasurement}), comunicación entre subsistemas (Tabla \ref{tab:communicationtests}), control ON/OFF de carga útil (Tabla \ref{tab:payloadcontroltest}), y el correcto funcionamiento del sistema de carga y protecciones (Tabla \ref{tab:electricprotectioncharger}).
+
+Cada una de estas pruebas sirve como un mecanismo de verificación acorde a los requerimientos establecidos previamente en la Tabla \ref{tab:requerimientos-eps}. Para este trabajo, se emplean principalmente simulaciones ambientales y SPICE para evaluar el comportamiento de los componentes electrónicos.
+
+
+\newpage
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|m{6.5cm}|m{6.5cm}|}
+    \hline
+        \textbf{ID de Prueba} & \textbf{Descripción} \\ \hline
+        \centering R1 & Ensayo de vacío térmico. Se somete la estructura a un test de vacío térmico (ver Anexo \ref{ap:CONESCAPAN_XL}) y se toman mediciones de temperatura y presión al interior de la estructura que protege al EPS. \\ \hline
+        \multicolumn{2}{|m{13cm}|}{\centering\textbf{Mediciones a realizar}} \\ \hline
+        \textbf{Variable medida} & \textbf{Valor medido} \\ \hline
+        Temperatura Mínima alcanzada [\degree C]  (De -20 \degree C hasta 60 \degree C) & ~ \\ \hline
+        Temperatura Máxima alcanzada [\degree C]  (De -20 \degree C hasta 60 \degree C) & ~ \\ \hline
+        Tiempo de autonomía a una descarga de 1C  [h] (1 hora a 3.4 A) $\pm$ 5\% & ~ \\ \hline
+    \end{tabular}
+    \caption{Prueba ambiental}
+    \label{tab:enviromentaltest}
+\end{table}
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|m{6.5cm}|m{6.5cm}|}
+    \hline
+        \textbf{ID de Prueba} & \textbf{Descripción} \\ \hline
+        \centering R2 y R3 & Medición de voltaje y corriente en Bus de 5.0 V y 3.3 V para corroborar una tensión estable a 750 mA de demanda. \\ \hline
+        \multicolumn{2}{|m{13cm}|}{\centering\textbf{Mediciones a realizar}} \\ \hline
+        \textbf{Variable medida} & \textbf{Valor medido} \\ \hline
+        Voltaje [V] (3.3V $\pm$ 1\% a 750 mA) & ~ \\ \hline
+        Voltaje [V] (3.3V $\pm$ 1\% a 250 mA) & ~ \\ \hline
+        Voltaje [V] (3.3V $\pm$ 1\% a 500 mA) & ~ \\ \hline
+        Voltaje [V] (5.0V $\pm$ 1\% a 750 mA) & ~ \\ \hline
+        Voltaje [V] (5.0V $\pm$ 1\% a 500 mA) & ~ \\ \hline
+        Voltaje [V] (5.0V $\pm$ 1\% a 250 mA) & ~ \\ \hline
+    \end{tabular}
+    \caption{Prueba de Parámetros Eléctricos}
+    \label{tab:voltagecurrentmeasurement}
+\end{table}
+
+\newpage
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|m{6.5cm}|m{6.5cm}|}
+    \hline
+        \textbf{ID de Prueba} & \textbf{Descripción} \\ \hline
+        \centering R4 & Medición de masa del EPS completo. \\ \hline
+        \multicolumn{2}{|m{13cm}|}{\centering\textbf{Mediciones a realizar}} \\ \hline
+        \textbf{Variable medida} & \textbf{Valor medido} \\ \hline
+        Masa [g] (Menor a 600 gramos) & ~ \\ \hline
+    \end{tabular}
+    \caption{Prueba de Masa}
+    \label{tab:MassMeasurement}
+\end{table}
+
+
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|m{6.5cm}|m{6.5cm}|}
+    \hline
+        \textbf{ID de Prueba} & \textbf{Descripción} \\ \hline
+        \centering R5 & Medición de longitud de EPS. \\ \hline
+        \multicolumn{2}{|m{13cm}|}{\centering\textbf{Mediciones a realizar}} \\ \hline
+        \textbf{Variable medida} & \textbf{Valor medido} \\ \hline
+        Cantidad (Máx. 2 PCB) & ~ \\ \hline
+        Dimensiones (12 cm x 8 cm x 2.5 cm) & ~ \\ \hline
+    \end{tabular}
+    \caption{Prueba de Longitud}
+    \label{tab:dimensionmeasurement}
+\end{table}
+
+
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|m{6.5cm}|m{6.5cm}|}
+    \hline
+        \textbf{ID de Prueba} & \textbf{Descripción} \\ \hline
+        R8 & Pruebas de comunicación con otros subsistemas electrónicos \\ \hline
+        \multicolumn{2}{|l|}{\textbf{\hspace{5 cm}Mediciones a realizar}} \\ \hline
+        \textbf{Enlace} & \textbf{Validación de envío (SI/NO)} \\ \hline
+        Subsistema de Telemetría & ~ \\ \hline
+        Subsistema de Navegación & ~ \\ \hline
+    \end{tabular}
+    \caption{Pruebas de Comunicación con Otros Subsistemas Electrónicos}
+    \label{tab:communicationtests}
+\end{table}
+
+
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|m{6.5cm}|m{6.5cm}|}
+    \hline
+        \textbf{ID de Prueba} & \textbf{Descripción} \\ \hline
+        R9 & Control ON/OFF de carga útil \\ \hline
+        \multicolumn{2}{|l|}{\textbf{\hspace{5 cm}Mediciones a realizar}} \\ \hline
+        \textbf{Enlace} & \textbf{Validación de activación (SI/NO)} \\ \hline
+        Carga a 3.3 V & ~ \\ \hline
+        Carga a 5.0 V & ~ \\ \hline
+    \end{tabular}
+    \caption{Prueba de Control ON/OFF de Carga Útil}
+    \label{tab:payloadcontroltest}
+\end{table}
+
+\newpage
+
+
+
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|m{4.5cm}|m{4.5cm}|m{4.5cm}|}
+    \hline
+        \textbf{ID de Prueba} & \textbf{Descripción} & \textbf{Área}\\ \hline
+        R10 & Prueba de funcionamiento & Protecciones eléctricas \\ \hline
+        \multicolumn{3}{|l|}{\textbf{\hspace{5 cm}Mediciones a realizar}} \\ \hline
+        \textbf{Falla} & \textbf{Validación de activación (SI/NO)} & \textbf{Validación de desactivación (SI/NO)} \\ \hline
+        Sobrecorriente ($ \geq 1.5 A$)  & ~ & ~ \\ \hline
+        Interruptor RBF & ~ & ~ \\ \hline
+        Interruptor de 4 polos & ~ & ~ \\ \hline
+    \end{tabular}
+
+    \begin{tabular}{|m{4.5cm}|m{4.5cm}|m{4.5cm}|}
+    \hline
+        R11 & Prueba de funcionamiento & Cargador de baterías \\ \hline
+        \multicolumn{3}{|l|}{\textbf{\hspace{5 cm}Mediciones a realizar}} \\ \hline
+        \textbf{Variable Medida} & \textbf{Valor medido} & \textbf{Validación (SI/NO)} \\ \hline
+        Voltaje de carga (4.2 V) & ~ & ~ \\ \hline
+        Tiempo de carga (4 h) & ~ & ~ \\ \hline
+    \end{tabular}
+    \caption{Pruebas de Protecciones Eléctricas y Funcionamiento del Cargador}
+    \label{tab:electricprotectioncharger}
+\end{table}

@@ -1,0 +1,25 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'main.blg'
+[178] biber-MSWIN64:340> INFO - === 
+[235] Biber.pm:419> INFO - Reading 'main.bcf'
+[443] Biber.pm:979> INFO - Found 56 citekeys in bib section 0
+[468] Biber.pm:4419> INFO - Processing section 0
+[486] Biber.pm:4610> INFO - Looking for bibtex file 'example.bib' for section 0
+[578] bibtex.pm:1713> INFO - LaTeX decoding ...
+[793] bibtex.pm:1519> INFO - Found BibTeX data source 'example.bib'
+[1208] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1209] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1209] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[1264] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1305] bbl.pm:763> INFO - Output to main.bbl
+[1306] Biber.pm:131> WARN - legacy month field 'noviembre' in entry 'noaa_upperair' is not an integer - this will probably not sort properly.
+[1307] Biber.pm:131> WARN - legacy month field 'noviembre' in entry 'noaa_radiosondes' is not an integer - this will probably not sort properly.
+[1307] Biber.pm:131> WARN - legacy month field 'julio' in entry 'comparasun' is not an integer - this will probably not sort properly.
+[1307] Biber.pm:131> WARN - legacy month field 'December' in entry 'jara2022orbit' is not an integer - this will probably not sort properly.
+[1307] Biber.pm:131> WARN - legacy month field 'Julio' in entry 'uwyo_balloon_traj' is not an integer - this will probably not sort properly.
+[1307] Biber.pm:131> WARN - legacy month field 'Julio' in entry 'noaa_wvap_sw' is not an integer - this will probably not sort properly.
+[1307] Biber.pm:131> WARN - legacy month field 'Julio' in entry 'stratoballoon_eps_batterytest' is not an integer - this will probably not sort properly.
+[1308] Biber.pm:131> WARN - legacy year field 'Año actual' in entry 'osmin-lab' is not an integer - this will probably not sort properly.
+[1308] Biber.pm:131> WARN - legacy month field 'nov' in entry 'barahona2022diseno' is not an integer - this will probably not sort properly.
+[1308] Biber.pm:131> WARN - ISBN '9780071263474, 0071263470' in entry 'ford2008design' is invalid - run biber with '--validate_datamodel' for details.
+[1308] Biber.pm:133> INFO - WARNINGS: 10

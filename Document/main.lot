@@ -1,0 +1,56 @@
+{\itshape Número}\hfill {\itshape Página}\par 
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Cuadro de cargas para bus 3.3v}}{16}{table.caption.25}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Cuadro de cargas para bus 5.0v}}{16}{table.caption.26}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Requerimientos del EPS}}{18}{table.caption.29}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Detalles de Nivel 0}}{20}{table.caption.31}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Detalles de Nivel 1, cargador.}}{21}{table.caption.33}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Detalles de Nivel 1, baterías.}}{22}{table.caption.34}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Detalles de Nivel 1, protecciones eléctricas.}}{22}{table.caption.35}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Detalles de Nivel 1, Convertidor DC-DC.}}{22}{table.caption.36}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Detalles de Nivel 1, etapa de potencia con MOSFET.}}{23}{table.caption.37}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Detalles de Nivel 1, microcontrolador.}}{23}{table.caption.38}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Detalles de Nivel 1, Datalogger.}}{24}{table.caption.39}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Detalles de Nivel 1, Instrumentación.}}{24}{table.caption.40}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Detalles de Nivel 1, Barómetro}}{25}{table.caption.42}%
+\contentsline {table}{\numberline {4.11}{\ignorespaces Detalles de Nivel 1, Sensor de temperatura}}{26}{table.caption.43}%
+\contentsline {table}{\numberline {4.12}{\ignorespaces Detalles de Nivel 1, Medidor de voltaje}}{26}{table.caption.44}%
+\contentsline {table}{\numberline {4.13}{\ignorespaces Detalles de Nivel 1, Medidor de corriente}}{26}{table.caption.45}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Especificaciones del Microcontrolador AVR}}{28}{table.caption.47}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Especificaciones del SparkFun OpenLog}}{29}{table.caption.48}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Carga útil conectada a bus de 3.3v}}{31}{table.caption.50}%
+\contentsline {table}{\numberline {5.4}{\ignorespaces Carga útil conectada a bus de 5.0v}}{31}{table.caption.51}%
+\contentsline {table}{\numberline {5.5}{\ignorespaces Características generales de BJT y MOSFET.}}{32}{table.caption.52}%
+\contentsline {table}{\numberline {5.6}{\ignorespaces Comparativa entre MOSFET BS170 y BJT 2N2222A.}}{33}{table.caption.55}%
+\contentsline {table}{\numberline {5.7}{\ignorespaces Parámetros de diseño para MOSFET BS170}}{35}{table.caption.59}%
+\contentsline {table}{\numberline {5.8}{\ignorespaces Especificaciones sensor MS5611}}{37}{table.caption.64}%
+\contentsline {table}{\numberline {5.9}{\ignorespaces Especificaciones del ADC del Arduino Nano}}{39}{table.caption.66}%
+\contentsline {table}{\numberline {5.10}{\ignorespaces Características de regulador de voltaje lineal}}{48}{table.caption.81}%
+\contentsline {table}{\numberline {5.11}{\ignorespaces Características de convertidor DC-DC}}{48}{table.caption.82}%
+\contentsline {table}{\numberline {5.12}{\ignorespaces Fórmulas de diseño para MC34063A}}{53}{table.caption.89}%
+\contentsline {table}{\numberline {5.13}{\ignorespaces Valores para convertidor DC-DC MC34063A, bus 3.3 V a 750 mA.}}{54}{table.caption.91}%
+\contentsline {table}{\numberline {5.14}{\ignorespaces Valores para convertidor DC-DC MC34063A, arreglo 4s1p, bus 5.0 V a 750 mA.}}{56}{table.caption.94}%
+\contentsline {table}{\numberline {5.15}{\ignorespaces Valores para convertidor DC-DC MC34063A, arreglo 2s2p, bus 3.3 V a 750 mA.}}{57}{table.caption.97}%
+\contentsline {table}{\numberline {5.16}{\ignorespaces Valores para convertidor DC-DC MC34063A, arreglo 2s2p, bus 5.0 V a 750 mA.}}{58}{table.caption.99}%
+\contentsline {table}{\numberline {5.17}{\ignorespaces Cuadro de cargas para autoconsumo de EPS, bus 5.0 V}}{64}{table.caption.110}%
+\contentsline {table}{\numberline {5.18}{\ignorespaces Cuadro de cargas para autoconsumo de EPS, bus 3.3 V}}{64}{table.caption.111}%
+\contentsline {table}{\numberline {5.19}{\ignorespaces Parámetros Clave AP9101C}}{66}{table.caption.113}%
+\contentsline {table}{\numberline {5.20}{\ignorespaces Especificaciones de LTC4361}}{67}{table.caption.116}%
+\contentsline {table}{\numberline {5.21}{\ignorespaces Relación entre la corriente y el grosor de la pista.}}{68}{table.caption.117}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Prueba ambiental}}{81}{table.caption.133}%
+\contentsline {table}{\numberline {7.2}{\ignorespaces Prueba de Parámetros Eléctricos}}{81}{table.caption.134}%
+\contentsline {table}{\numberline {7.3}{\ignorespaces Prueba de Masa}}{82}{table.caption.135}%
+\contentsline {table}{\numberline {7.4}{\ignorespaces Prueba de Longitud}}{82}{table.caption.136}%
+\contentsline {table}{\numberline {7.5}{\ignorespaces Pruebas de Comunicación con Otros Subsistemas Electrónicos}}{82}{table.caption.137}%
+\contentsline {table}{\numberline {7.6}{\ignorespaces Prueba de Control ON/OFF de Carga Útil}}{82}{table.caption.138}%
+\contentsline {table}{\numberline {7.7}{\ignorespaces Pruebas de Protecciones Eléctricas y Funcionamiento del Cargador}}{83}{table.caption.139}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

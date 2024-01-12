@@ -1,0 +1,81 @@
+\vskip 35pt
+\SingleSpacing 
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{{Abstract}}{\es@scroman {iv}}{chapter*.1}%
+\contentsline {chapter}{{Agradecimientos}}{\es@scroman {v}}{chapter*.2}%
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{\'{I}ndice general}{\es@scroman {vi}}{section*.3}%
+\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {vii}}{section*.4}%
+\contentsline {chapter}{Listado de Tablas}{\es@scroman {xi}}{section*.5}%
+\contentsline {chapter}{Listado de Códigos}{\es@scroman {xiii}}{section*.6}%
+\setcounter {tocdepth}{2}
+\contentsline {chapter}{\chapternumberline {1}Introducción}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Planteamiento del problema}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivación del trabajo}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objetivos de la investigación}{4}{section.1.3}%
+\contentsline {subsection}{Objetivo General}{4}{section*.7}%
+\contentsline {subsection}{Objetivos Específicos}{4}{section*.8}%
+\contentsline {section}{\numberline {1.4}Aspectos a considerar}{5}{section.1.4}%
+\contentsline {subsection}{Alcance}{5}{section*.9}%
+\contentsline {subsection}{Limitaciones}{5}{section*.10}%
+\contentsline {section}{\numberline {1.5}Ruta de la Tesis}{6}{section.1.5}%
+\contentsline {chapter}{\chapternumberline {2}Antecedentes}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Revisión del Estado del Arte de Sistemas de Eléctricos de Potencia (EPS) en aplicaciones de globos de gran altitud}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Metodología para el Diseño de Sistemas de Eléctricos de Potencia (EPS)}{11}{section.2.2}%
+\contentsline {subsection}{Necesidades y Limitaciones}{11}{section*.15}%
+\contentsline {subsection}{Requerimientos del Sistema}{12}{section*.16}%
+\contentsline {subsection}{Arquitectura}{12}{section*.17}%
+\contentsline {subsection}{Diseño e Implementación}{12}{section*.18}%
+\contentsline {subsection}{Integración del Sistema}{12}{section*.19}%
+\contentsline {subsection}{Validación y Verificación del Sistema}{12}{section*.20}%
+\contentsline {subsection}{Operación}{12}{section*.21}%
+\contentsline {chapter}{\chapternumberline {3}Necesidades y Limitaciones}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Condiciones ambientales}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Presupuesto energético}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Limitaciones de Masa y Volumen}{17}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Resumen de requerimientos}{18}{section.3.4}%
+\contentsline {chapter}{\chapternumberline {4}Definición de Arquitectura}{19}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Nivel 0}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Nivel 1}{21}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Nivel 2}{25}{section.4.3}%
+\contentsline {chapter}{\chapternumberline {5}Diseño e Implementación del Sistema}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Microcontrolador}{28}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Datalogger}{29}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Etapa de Potencia}{31}{section.5.3}%
+\contentsline {subsection}{Análisis Comparativo entre BJT 2N2222A y MOSFET BS170}{33}{section*.54}%
+\contentsline {subsection}{Diseño e implementación de MOSFET BS170}{35}{section*.58}%
+\contentsline {section}{\numberline {5.4}Instrumentación}{37}{section.5.4}%
+\contentsline {subsection}{Barómetro y sensor de temperatura}{37}{section*.63}%
+\contentsline {subsection}{Medidor de voltaje}{39}{section*.65}%
+\contentsline {subsection}{Medidor de corriente}{40}{section*.67}%
+\contentsline {section}{\numberline {5.5}Baterías}{42}{section.5.5}%
+\contentsline {subsection}{Química y geometría de las baterías}{42}{section*.69}%
+\contentsline {subsection}{Baterías comerciales}{42}{section*.70}%
+\contentsline {subsection}{Arreglo para el banco de baterías}{43}{section*.72}%
+\contentsline {section}{\numberline {5.6}Selección del Cargador para el Sistema de Energía (EPS)}{45}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Regulación de Voltaje}{47}{section.5.7}%
+\contentsline {subsection}{Reguladores lineales}{47}{section*.79}%
+\contentsline {subsection}{Convertidores DC-DC}{47}{section*.80}%
+\contentsline {subsection}{Análisis previo a implementación}{49}{section*.83}%
+\contentsline {subsection}{Arreglo de baterías 4s1p}{54}{section*.90}%
+\contentsline {subsection}{Arreglo de baterías 2s2p}{57}{section*.96}%
+\contentsline {subsection}{Arreglo de baterías 1s4p}{59}{section*.101}%
+\contentsline {subsection}{Implementación de MC34063A en PCB}{60}{section*.103}%
+\contentsline {section}{\numberline {5.8}Revisión de autoconsumo de EPS}{64}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Dispositivos de Protección Eléctrica}{65}{section.5.9}%
+\contentsline {subsection}{Protección eléctrica para cargador a bordo}{65}{section*.112}%
+\contentsline {subsection}{Protección eléctrica como limitador de corriente}{67}{section*.115}%
+\contentsline {subsection}{Sistemas de Desconexión y Seguridad}{70}{section*.120}%
+\contentsline {chapter}{\chapternumberline {6}Integración de Sistemas}{71}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Software}{72}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Hardware}{73}{section.6.2}%
+\contentsline {chapter}{\chapternumberline {7}Validación y Verificación del Sistema}{80}{chapter.7}%
+\contentsline {chapter}{\chapternumberline {8}Conclusiones}{84}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Resumen de la Tesis}{84}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Contribuciones de la Tesis}{85}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Trabajos futuros}{86}{section.8.3}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{87}{section*.142}%
+\renewcommand {\chaptername }{Anexo} 
+\contentsline {appendix}{\chapternumberline {A}}{92}{appendix.Alph1}%
+\contentsline {appendix}{\chapternumberline {B}}{97}{appendix.Alph2}%

@@ -1,0 +1,70 @@
+\chapter{Conclusiones}
+
+\section{Resumen de la Tesis}
+
+
+Esta investigación se centra en el diseño y simulación de un sistema de energía basado en componentes COTS (\emph{Commercial Off-The-Shelf}) destinado a globos de gran altitud en ambiente estratosférico. La metodología de proyectos establecida por la NASA guió la implementación, cubriendo seis de las siete fases del proceso previo al lanzamiento u operación. A lo largo del estudio, las contribuciones se enfocaron en la selección de componentes, diseño y simulaciones de circuitos electrónicos, aportando directamente en el campo de sistemas de energía para misiones con globos de gran altitud.
+
+La tesis inicia contextualizando los globos de gran altitud como herramientas de bajo costo para proyectos de investigación en el Capítulo I. En el Capítulo II, se realiza una revisión de la literatura sobre sistemas de energía y las metodologías aplicadas a estos proyectos. Posteriormente, en el Capítulo III, se sigue la metodología de la NASA, identificando necesidades y limitaciones asociadas al sistema de energía contextualizado para misiones de globos de gran altitud. El enfoque se centra en condiciones ambientales, restricciones de masa y volumen, y necesidades energéticas, culminando con una tabla resumen de requerimientos justificados y métodos de verificación.
+
+En el Capítulo IV, se define la arquitectura del sistema, alcanzando un nivel base funcional y se establece la interconexión lógica de las partes para cumplir con los requerimientos previamente establecidos. El Capítulo V se adentra en el proceso de diseño e implementación, comparando y estudiando alternativas para la selección eficiente de componentes. En el capítulo VI, las partes se integran a nivel de esquemáticos, PCBs y un flujograma de lógica de programación. Finalmente, en el Capítulo VII, se desarrolla un plan  de validación y verificación del sistema a través del diseño de pruebas.
+
+
+
+\newpage
+\section{Contribuciones de la Tesis}
+
+La presente investigación ha culminado en una contribución al campo de sistemas de energía, centrándose específicamente en la aplicación de metodologías de la NASA para sistemas de energía (EPS) en el contexto de globos de gran altitud con un enfoque en investigación de bajo costo y complejidad controlada.
+
+\subsection*{Principales Contribuciones:}
+
+\begin{enumerate}
+  \item \textbf{Demostración Aplicada de Metodología NASA:}
+    \begin{itemize}
+      \item La tesis sirve como una demostración aplicada de la metodología de la NASA adaptada al diseño y desarrollo de un EPS para globos de gran altitud, orientada hacia la eficiencia, la simplicidad y la viabilidad económica.
+    \end{itemize}
+
+  \item \textbf{Contribución Integral al Desarrollo del EPS:}
+    \begin{itemize}
+    \item Se ha realizado un desarrollo integral que abarca desde la implementación de circuitos hasta la creación de flujogramas de algoritmos de programación específicos para EPS en globos de gran altitud.
+
+    \item Se ha elaborado un artículo guía que aborda la caracterización ambiental de la trayectoria de un High Altitude Balloon (HAB) mediante simulaciones. Este artículo resulta aplicable para el diseño de pruebas pre vuelo, y se encuentra detallado en el Anexo \ref{ap:CONESCAPAN_XL} (Información detallada en repositorio de Github \cite{stratoballoon_eps_batterytest}).
+
+    \end{itemize}
+
+  \item \textbf{Propuesta Integral para Misiones de Globos de Gran Altitud:}
+    \begin{itemize}
+      \item La tesis no solo presenta un diseño funcional, sino que también propone su implementación en misiones reales de globos de gran altitud. Con un enfoque de bajo costo, se ofrecen funciones esenciales como la entrega de potencia, un bus de 3.3 V y 5.0 V, un arreglo de baterías 1s4p, y circuitos de potencia con MOSFET para un control preciso de las cargas.
+
+      \item Se integra un sistema completo de monitoreo y recolección de variables ambientales y eléctricas, utilizando un Arduino Nano y un datalogger, ampliando las posibilidades de análisis posterior.
+    \end{itemize}
+\end{enumerate}
+
+
+En resumen, esta tesis representa un paso significativo hacia la implementación práctica de sistemas de energía en misiones de globos de gran altitud, destacando la viabilidad técnica y económica de la metodología propuesta.
+
+
+
+
+
+
+
+\newpage
+\section{Trabajos futuros}
+
+A pesar de los logros alcanzados en este trabajo, se identifican diversas oportunidades para investigaciones futuras. Algunas áreas prometedoras que podrían explorarse incluyen:
+
+\begin{enumerate}
+    \item \textbf{Cargador a Bordo:} Diseño de un circuito cargador destinado al banco de baterías, considerando paneles solares como fuente de energía. Este enfoque aumentaría la autonomía del sistema, especialmente indicado para misiones de larga duración.
+
+    \item \textbf{Cámara de Vacío Térmico de Bajo Costo:} Desarrollo de una cámara de vacío térmico asequible, concebida como un laboratorio de pruebas ambientales para componentes electrónicos. Las condiciones ambientales podrían emular las descritas en el Capítulo II de esta investigación o extenderse para simular las condiciones en órbita baja. Este diseño resultaría útil para evaluar componentes destinados a misiones de globo de gran altitud y pequeños satélites.
+
+    \item \textbf{Convertidor DC-DC para Arreglo de Baterías 1s4p:} En el Capítulo V, se abordó el diseño de convertidores DC-DC. Considerando la variación dinámica del voltaje a lo largo del tiempo, es esencial desarrollar un convertidor capaz de operar de manera automática entre modos elevador y reductor. Esto optimizará la extracción de energía de las baterías.
+
+    \item \textbf{Diseño de Circuito de Descarga a Corriente Constante para Baterías de Iones de Litio:} Este desarrollo facilitaría la caracterización experimental de diferentes modelos de baterías, permitiendo obtener información detallada sobre sus características reales y, por ende, su rendimiento.
+
+\end{enumerate}
+
+Estas propuestas de investigación podrían contribuir significativamente a mejorar las condiciones de prueba y el sistema de energía en sí mismo. Además, diversificarían y expandirían el alcance del uso de sistemas de energía en investigaciones con globos de gran altitud o inclusive incursionar con pequeños satélites.
+
+

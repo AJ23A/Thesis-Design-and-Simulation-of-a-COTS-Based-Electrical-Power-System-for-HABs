@@ -1,0 +1,41 @@
+\nomenclatureentry{aBMS@[{BMS}]\begingroup Battery Management System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aBP@[{BP}]\begingroup Boost Power\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aBTMS@[{BTMS}]\begingroup Battery Thermal Management System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aBTS@[{BTS}]\begingroup Battery Charge-Discharge Testing Software\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aC/D@[{C/D}]\begingroup Charge-Discharge\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aCC@[{CC}]\begingroup Constant Current\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aCMB@[{CMB}]\begingroup Cosmic Microwave Background\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aCOTS@[{COTS}]\begingroup Commercial-Off-The-Shelf\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aCTR@[{CTR}]\begingroup Compensated Temperature Range\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aCV@[{CV}]\begingroup Constant Voltage\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aD-C@[{D-C}]\begingroup Discharge-Charge\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aDAQ@[{DAQ}]\begingroup Data Acquisition\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aDC@[{DC}]\begingroup Direct Current\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aDOD@[{DOD}]\begingroup Depth of discharge\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aEPS@[{EPS}]\begingroup Electrical Power System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aESA@[{ESA}]\begingroup European Space Agency\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aGFS@[{GFS}]\begingroup Global Forecast System\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aGNSS@[{GNSS}]\begingroup Global navigation satellite system\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aGUI@[{GUI}]\begingroup Graphical User Interface\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aHAB@[{HAB}]\begingroup High Altitude Balloon\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aIEC@[{IEC}]\begingroup International Electrotechnical Commission\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aIMU@[{IMU}]\begingroup Inertial Measurement Unit\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aISA@[{ISA}]\begingroup International Standard Atmosphere\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aLDO@[{LDO}]\begingroup Low-dropout regulator\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aLEO@[{LEO}]\begingroup Low-Earth Orbit\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aLIB@[{LIB}]\begingroup Lithium-Ion Battery\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aMOSFET@[{MOSFET}]\begingroup Metal Oxide Silicon Field Effect Transistors\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aNASA@[{NASA}]\begingroup National Aeronautics and Space Administration\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aNIST@[{NIST}]\begingroup National Institute of Standards and Technology\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aNOAA@[{NOAA}]\begingroup National Oceanic and Atmospheric Administration\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aOCV@[{OCV}]\begingroup Open-Circuit Voltage\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aOMM@[{OMM}]\begingroup Observatorio Micro Macro\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aPCB@[{PCB}]\begingroup Printed Circuit Board\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aRTD@[{RTD}]\begingroup Resistance Temperature Detector\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aSOC@[{SOC}]\begingroup State of Charge\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aSOH@[{SOH}]\begingroup State of Health\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aSPICE@[{SPICE}]\begingroup Simulation Program with Integrate Circuit Emphasis\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aSTEM@[{STEM}]\begingroup Science, technology, engineering, and mathematics\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aUART@[{UART}]\begingroup Universal Asynchronous Receiver Transmitter\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aUSB@[{USB}]\begingroup Universal Serial Bus\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{aVDA@[{VDA}]\begingroup Vapor-Deposited Aluminum\nomeqref {0}|nompageref}{1}

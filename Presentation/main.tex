@@ -1,0 +1,155 @@
+\documentclass[12pt]{beamer}
+\usefonttheme{default}
+\usetheme{Szeged}
+\usecolortheme{dolphin}
+
+\setbeamertemplate{navigation symbols}{}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{tikz}
+\graphicspath{ {./images/} }
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{orcidlink}
+\usepackage{todonotes}
+\usepackage{tabularx}
+\usepackage[spanish]{babel} % Paquete para idioma español
+\usepackage{caption}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=blue
+}
+\usepackage[
+backend=biber,
+style=ieee,
+]{biblatex}
+\addbibresource{references.bib}
+\setbeamercolor{title}{fg=black}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% General data information %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \newcommand{\AutorName}{Josué Romeo Aldana Aguilar}
+  \newcommand{\Grade}{Ing. Eléctrica}
+  \newcommand{\Titule}{Diseño y Simulación de un Sistema de  \\ Energía Basado en COTS para \\Globos de Gran Altitud}
+  \title[Electrical Power System (EPS)]{\Titule}
+  \author{\textbf{\orcidlink{0000-0002-7686-5065}~\AutorName}}
+
+  \subtitle{Tesis de grado}
+  \institute[\text{Universidad Don Bosco}]{Escuela de Ingeniería Eléctrica\\
+  Universidad Don Bosco \\
+  El Salvador}
+  \date[CEC 2023]{\\ Enero 2024}
+
+  % Redefine el comando caption para eliminar el prefijo "Figura" y añadir "Fig. X:"
+  \captionsetup[figure]{labelformat=empty,labelsep=none}
+  \newcommand{\mycaption}[1]{\caption{\textbf{Fig. \thefigure:} #1}}
+
+  \captionsetup[table]{
+    labelfont=bf,
+    labelsep=newline,
+    justification=centering,
+    textfont=it,
+    name=Tabla
+  }
+
+  \begin{document}
+
+  %------------ PORTADA -----------------
+
+%*Inserto los logos de la UDB
+\newlength{\mylogoheight}
+\setlength{\mylogoheight}{2cm}
+\logo{
+    \hspace{0.5cm}% Espacio desde el borde izquierdo
+    \includegraphics[height=0.75\mylogoheight]{images/logo_UDB.png}
+    \hspace{\dimexpr\paperwidth-2.5cm-1.5\mylogoheight}% Ajusta el espacio para el segundo logo
+    \includegraphics[height=0.75\mylogoheight]{omm_logo.png}
+    \hspace{0.25cm}% Espacio al final, para balancear
+}
+\frame{\titlepage}
+%------------ PORTADA -----------------
+
+
+%--------- TABLA DE CONTENIDOS --------
+
+%*Quito el logo de la UDB
+\setlength{\mylogoheight}{0cm} 
+\logo{\includegraphics[height=\mylogoheight]{images/omm_logo.png}}
+%*Quito el logo de la UDB
+
+
+\include{TablaContenidos}
+%--------- TABLA DE CONTENIDOS --------
+
+
+%--------- CUERPO DE LA PRESENTACION --------
+
+\section{Introducción}
+\input{Introducción}
+\newpage
+
+\section{Requerimientos}
+\input{Requerimientos}
+\newpage
+
+\section{Arquitectura}
+\input{Arquitectura}
+\newpage
+
+\section{Diseño e Implementación}
+\input{DisImplementacion}
+\newpage
+
+\section{Integración}
+\input{Integracion}
+\newpage
+
+\section{Verificación}
+\input{Pruebas}
+\newpage
+
+\section{Conclusiones}
+\input{Conclusiones}
+\newpage
+
+
+%--------- CUERPO DE LA PRESENTACION --------
+
+
+
+
+
+%--------- PREGUNTAS Y RESPUESTAS -----------
+\section{Q\&A}
+\begin{frame}
+\begin{tikzpicture}[remember picture, overlay]
+    \node[opacity=0.19, anchor=south] at (current page.south) {\includegraphics[width=\paperwidth,height=0.89\paperheight]{images/CampusUDB.jpg}};
+\end{tikzpicture}
+
+\begin{center}
+\Huge{\textbf{Preguntas y Respuestas}}
+\end{center}
+\vfill
+
+\end{frame}
+
+\newpage
+
+\appendix
+\section*{Anexos}
+\input{Anexos}
+\newpage
+
+\section*{Bibliografía}
+% Bibliografia
+\printbibliography[heading=none]
+\newpage
+
+%--------- PREGUNTAS Y RESPUESTAS -----------
+
+\end{document}

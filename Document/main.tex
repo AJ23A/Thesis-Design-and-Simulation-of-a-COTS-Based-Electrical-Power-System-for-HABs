@@ -1,0 +1,207 @@
+\documentclass[12pt]{caltech_thesis}
+\usepackage[hyphens]{url}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{orcidlink}
+\usepackage{todonotes}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{subcaption}
+\usepackage{gensymb}
+\usepackage{pdfpages}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage{tocloft}
+\usepackage{caption} % Agrega el paquete caption
+\usepackage{booktabs}
+\usepackage{caption}
+\captionsetup{labelsep=period}
+\usepackage{adjustbox}
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{tocbibind}
+\usepackage{etoc}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}  % Agrega este paquete para habilitar la codificación UTF-8
+
+
+% Configura el entorno 'lstlisting' para usar 'Código' como etiqueta y una numeración distinta
+\DeclareCaptionType{code}[Código][Índice de códigos]
+\captionsetup[lstlisting]{labelsep=period}
+\renewcommand\lstlistingname{Código}
+\renewcommand\lstlistlistingname{Listado de Códigos}
+\renewcommand{\arraystretch}{1.3}
+
+
+
+\lstset{
+    backgroundcolor=\color{white},
+    basicstyle=\ttfamily,
+    breaklines=true,
+    frame=single,
+    numbers=left,
+    numberstyle=\tiny,
+    language=C++, % Ajusta el lenguaje según tu caso
+    showstringspaces=false,
+}
+
+% Configuración personalizada del estilo del código
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{lightgray},     % Color de fondo
+    basicstyle=\ttfamily,                 % Fuente
+    breaklines=true,                     % Dividir líneas largas
+    frame=single,                        % Marco alrededor del código
+    numbers=left,                        % Números de línea a la izquierda
+    numberstyle=\tiny\color{gray},       % Tamaño de los números de línea y color
+    language=C++,                        % Lenguaje del código (ajusta según tu caso)
+    keywordstyle=\color{blue},            % Estilo de las palabras clave
+    commentstyle=\color{green!50!black},  % Estilo de los comentarios
+    stringstyle=\color{red},              % Estilo de las cadenas de texto
+    morekeywords={*,...},                % Puedes agregar más palabras clave aquí
+    showstringspaces=false,              % No mostrar espacios en cadenas
+    tabsize=4                            % Tamaño de tabulación
+}
+
+% Aplica el estilo personalizado
+\lstset{style=mystyle}
+
+
+
+
+\colorlet{linkcolor}{black} % Define el color de enlace como negro
+
+
+
+%% Tentative: newtx for better-looking Times
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext,newtxmath}
+
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=linkcolor,
+  urlcolor=linkcolor,
+  citecolor=linkcolor
+  }
+
+
+% Must use biblatex to produce the Published Contents and Contributions, per-chapter bibliography (if desired), etc.
+\usepackage[
+    backend=biber,natbib,
+    % IMPORTANT: load a style suitable for your discipline
+    style=ieee
+]{biblatex}
+
+% Name of your .bib file(s)
+\addbibresource{example.bib}
+
+\begin{document}
+
+
+%Portada
+\include{Portada}
+
+
+
+% Abstract
+\begin{abstract}
+\hspace{1cm} Near space, spanning the altitude range between 20 and 100 km, remains an underexplored domain despite the increasing interest in space research. This region holds immense potential for advancing atmospheric physics, biology, environmental sciences, and other related fields. While the Low Earth Orbit (LEO) of nanosatellites fails to provide the required precision for these studies
+and conventional aircraft rarely reach such altitudes, High-Altitude Balloons (HABs) emerge as a promising alternative. HABs operate at lower altitudes compared to nanosatellites, enabling exploration of critical areas of scientific interest, including the troposphere, tropopause, and stratosphere, while also offering more payload capacity.\\\\
+ \hspace{1cm}This thesis primarily centers around the design of an EPS specifically optimized for short-duration missions typically lasting a few hours. Recognizing the critical role of the EPS in the overall functionality and effectiveness of other systems, this study applies the V-model methodology, following the project life cycle outlined in the NASA Systems Engineering Handbook. The EPS development life cycle encompasses phases such as needs/constraints analysis, system requirements identification,
+architecture definition, design and implementation, system integration and testing, system verification and validation, culminating in the operation phase.
+
+\hspace{1cm}This project is based on a systematic methodology and takes advantage of affordable commercial electronic components and open-source software, aiming to provide a low-cost solution. Relevant information, including laboratory tests, schematics, and algorithms, has been developed and documented, and made available in a GitHub repository. This not only offers an economical solution but also encourages collaboration and knowledge sharing within the scientific community. TThe results obtained, including circuit schematics, PCB designs, and programming logic flow charts, can enhance research capabilities in the Near-Space region and facilitate future scientific investigations.
+\end{abstract}
+
+%Agradecimientos
+\begin{acknowledgements}
+
+Quisiera expresar mi sincero agradecimiento a las siguientes personas e instituciones, quienes desempeñaron un papel fundamental en la realización de este trabajo de investigación:
+
+\begin{itemize}
+    \item \textbf{PhD. Jesús González:} A mi asesor de tesis, por su guía experta, paciencia y dedicación constante durante todo el proceso del trabajo de investigación. Su valioso asesoramiento ha sido crucial.
+
+    \item \textbf{Familia:} Agradezco a mi familia por su apoyo incondicional y comprensión durante el tiempo dedicado a este trabajo. Especialmente quiero expresar mi gratitud a mis padres, cuyo apoyo ha sido fundamental. También dedico este trabajo a la memoria de mi abuelo, que en paz descanse, y que a lo largo de mi vida ha sido un ejemplo inspirador que ha guiado mis intereses de manera acertada.
+
+    \item \textbf{Observatorio Micro-Macro (OMM):} Agradezco al Observatorio Micro-Macro, y especialmente a su directora, Brisa Terezón, por proporcionarme un espacio dentro del proyecto de investigación estudiantil StratoBalloon, al cual pertenece esta tesis. Es dentro de este marco que se llevará a cabo la implementación y desarrollo del diseño presentado en este trabajo.
+
+    \item \textbf{Amigos y Colegas:} Quiero expresar mi agradecimiento a todos aquellos amigos y colegas que, de una u otra manera, contribuyeron directa o indirectamente a este trabajo. Sus aportes fueron invaluables y enriquecieron significativamente el desarrollo de la investigación.
+
+\end{itemize}
+
+A todos ellos, mi más profundo agradecimiento por ser parte integral de este viaje académico y por su contribución a la culminación exitosa de este trabajo de tesis.
+
+\end{acknowledgements}
+
+
+\newpage % Salto de página
+
+\newpage % Salto de página adicional
+
+% Eliminar la entrada del índice general en sí mismo
+
+\addtocontents{toc}{\protect\setcounter{tocdepth}{-10}}
+% Generar las listas de figuras, tablas y listados de código
+
+\pagestyle{empty} % Desactiva la numeración de página
+
+\tableofcontents
+
+\pagestyle{plain} % Restaura la numeración de página normal
+
+\listoffigures
+\listoftables
+\lstlistoflistings
+
+
+
+% Restaurar el nivel de profundidad por defecto para la tabla de contenidos principal
+\addtocontents{toc}{\protect\setcounter{tocdepth}{2}}
+
+% Nomenclatura
+\printnomenclature[4cm]
+\include{Nomenclatura}
+
+% CUERPO DEL DOCUMENTO
+\mainmatter
+
+
+%Capítulos
+\include{Introduccion}
+\include{Background}
+\include{Capitulo2_Requerimientos}
+\include{Architecture}
+\include{DesignAndImplementation}
+\include{IntegracionSistemas}
+\include{Verificacion}
+\include{Conclusiones}
+
+%Bibliografia
+\printbibliography[heading=bibintoc]
+
+% Apéndice
+\appendix
+\chapter{} \label{ap:vaciotermico}
+\centering\vspace*{4cm}\Huge\bfseries ENSAYO DE VACÍO TÉRMICO\vspace*{4cm}
+
+\includepdf[pages=-, fitpaper=true, pagecommand={\thispagestyle{plain}}]{Documentos/ThermalVaccumTest.pdf}
+
+\chapter{} \label{ap:CONESCAPAN_XL}
+\centering\vspace*{4cm}\Huge\bfseries ARTÍCULO\vspace*{4cm}
+
+\includepdf[pages=-, fitpaper=true, pagecommand={\thispagestyle{plain}}]{Documentos/Paper_ConescapanXL.pdf}
+
+
+%Notas finales
+%\theendnotes
+
+
+\end{document}

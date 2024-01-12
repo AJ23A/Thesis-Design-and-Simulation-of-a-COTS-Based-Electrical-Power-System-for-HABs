@@ -1,0 +1,488 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Saad2015}{report}{}
+      \name{author}{1}{}{%
+        {{hash=d1f39ca1a0e839157ff3132343d63feb}{%
+           family={Saad},
+           familyi={S\bibinitperiod},
+           given={Marissa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{fullhash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{bibnamehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{authorbibnamehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{authornamehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{authorfullhash}{d1f39ca1a0e839157ff3132343d63feb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The North Dakota Space Grant Consortium provides middle and high schools in North Dakota with a student launch competition, which reinforces hands-on STEM education with a real-world, inquiry-based, and NASA-relevant research project. The Near-Space Balloon Competition Handbook}
+      \field{year}{2015}
+      \keyw{http:/blogs.und.edu/nsbc}
+    \endentry
+    \entry{noaa_radiosondes}{misc}{}
+      \list{organization}{1}{%
+        {NOAA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{note}{Accedido el 14 de noviembre de 2023 a las 23:28 CST desde El Salvador}
+      \field{title}{Radiosondes}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.noaa.gov/jetstream/upperair/radiosondes
+      \endverb
+      \verb{url}
+      \verb https://www.noaa.gov/jetstream/upperair/radiosondes
+      \endverb
+    \endentry
+    \entry{Jarrell2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=a6b2534dce710639ee576f6b395008a2}{%
+           family={Jarrell},
+           familyi={J\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{fullhash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{bibnamehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{authorbibnamehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{authornamehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{authorfullhash}{a6b2534dce710639ee576f6b395008a2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{THE ECLIPSE BALLOONING PROJECT AT VANDERBILT UNIVERSITY AND THE CONSTRUCTION OF CUSTOM EQUIPMENT}
+      \field{year}{2017}
+    \endentry
+    \entry{noaa_upperair}{misc}{}
+      \list{organization}{1}{%
+        {NOAA}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{note}{Accedido el 14 de noviembre de 2023 a las 23:27 CST desde El Salvador}
+      \field{title}{Weather Balloon / Upper Air Observations}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.weather.gov/chs/upperair
+      \endverb
+      \verb{url}
+      \verb https://www.weather.gov/chs/upperair
+      \endverb
+    \endentry
+    \entry{NASA2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1f99771bc3e23e6097509a331544ab65}{%
+           family={NASA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{fullhash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{bibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorbibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authornamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorfullhash}{1f99771bc3e23e6097509a331544ab65}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NASA Systems Engineering HandBook}
+      \field{year}{2016}
+    \endentry
+    \entry{TASEC}{article}{}
+      \name{author}{21}{}{%
+        {{hash=4c07656f5896994eaa8908eae244c83d}{%
+           family={González-Bárcena},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=84c7c512d173403d061a6d067c520494}{%
+           family={Peinado-Pérez},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Lilian},
+           giveni={L\bibinitperiod}}}%
+        {{hash=98c97674aa574e93fe56daab72b347a5}{%
+           family={Fernández-Soler},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=98fdcb282fb2c3b66da43e2451e8405f}{%
+           family={Pérez-Muñoz},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Ángel\bibnamedelima Grover},
+           giveni={Á\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=bfe7ea7b2b6b006539807fb6c6a64593}{%
+           family={Álvarez-Romero},
+           familyi={Á\bibinithyphendelim R\bibinitperiod},
+           given={Jose\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4ce9805693d8746f86bba2f9458f40cc}{%
+           family={Ayape},
+           familyi={A\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=beb1ffe86621d965623fecce7e00d341}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=063473715cdc5949270e477bfcf28ec5}{%
+           family={Bermejo-Ballesteros},
+           familyi={B\bibinithyphendelim B\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=543bac9bf5a1a82040f28d35daf39cc7}{%
+           family={Porras-Hermoso},
+           familyi={P\bibinithyphendelim H\bibinitperiod},
+           given={Ángel\bibnamedelima Luis},
+           giveni={Á\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6686a5ca42a975d3c9abeff25afd3a8f}{%
+           family={Alfonso-Corcuera},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c3867fc60e121a10f20a896b484fda72}{%
+           family={Marín-Coca},
+           familyi={M\bibinithyphendelim C\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e36d843a89c0f11894ae4656b3214626}{%
+           family={Soto-Aranaz},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Manú},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9d0ba71330ecae1eeec6f88e4ff723e4}{%
+           family={Boado-Cuartero},
+           familyi={B\bibinithyphendelim C\bibinitperiod},
+           given={Blanca},
+           giveni={B\bibinitperiod}}}%
+        {{hash=79bc2041ff630ac881b11250c695d4c6}{%
+           family={Garcia-Romero},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b103f2a9ae7d5fc7c62c3d5020d3bec7}{%
+           family={Pindado},
+           familyi={P\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
+        {{hash=37ed77c9f46afc6080227e64165433f6}{%
+           family={Pérez-Álvarez},
+           familyi={P\bibinithyphendelim Á\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f36122d911cac968e9f12ccde5f380bb}{%
+           family={Zamorano},
+           familyi={Z\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=18974195171d46c91d26fb454f743b04}{%
+           family={Torralbo},
+           familyi={T\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5b9842a798dff6dc46d3c6e95da995dc}{%
+           family={Piqueras},
+           familyi={P\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=299978fa6a71eea050c3202b318ac9fe}{%
+           family={Pérez-Grande},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=bc70b495b59f31d01f6a4bfdf11e4a1f}{%
+           family={Sanz-Andrés},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Ángel},
+           giveni={Á\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{fullhash}{11e7ebcc4732114f269037324577e29c}
+      \strng{bibnamehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{authorbibnamehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{authornamehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{authorfullhash}{11e7ebcc4732114f269037324577e29c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00945765}
+      \field{journaltitle}{Acta Astronautica}
+      \field{month}{7}
+      \field{title}{TASEC-Lab: A COTS-based CubeSat-like university experiment for characterizing the convective heat transfer in stratospheric balloon missions}
+      \field{volume}{196}
+      \field{year}{2022}
+      \field{pages}{244\bibrangedash 258}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.actaastro.2022.04.028
+      \endverb
+      \keyw{Ballooning,Convection,CubeSat,Heat transfer,Project-based learning,Stratosphere}
+    \endentry
+    \entry{Reyes2023}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c838b6a9f21b1349f446411c8cfd29c3}{%
+           family={Reyes},
+           familyi={R\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=72ed1df9200284b6ed888e7ae1ea0c5a}{%
+           family={Pleites},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{89ef4602ac361cfbb1d92a3bf0de42d9}
+      \strng{fullhash}{89ef4602ac361cfbb1d92a3bf0de42d9}
+      \strng{bibnamehash}{89ef4602ac361cfbb1d92a3bf0de42d9}
+      \strng{authorbibnamehash}{89ef4602ac361cfbb1d92a3bf0de42d9}
+      \strng{authornamehash}{89ef4602ac361cfbb1d92a3bf0de42d9}
+      \strng{authorfullhash}{89ef4602ac361cfbb1d92a3bf0de42d9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE Central America and Panama Student Conference (CONESCAPAN)}
+      \field{month}{9}
+      \field{title}{@Preliminary Design and Analysis of an FDM Payload Unit for HAB Missions}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1109/CONESCAPAN60431.2023.10328426
+      \endverb
+    \endentry
+    \entry{chin2018energy}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=ef0b1a9a4701df517ddd8a857e8a1a93}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={K.B.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{fullhash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{bibnamehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{authorbibnamehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{authornamehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{authorfullhash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{title}{Energy Storage Technologies for Small Satellite Applications}
+      \field{volume}{106}
+      \field{year}{2018}
+      \field{pages}{419\bibrangedash 428}
+      \range{pages}{10}
+    \endentry
+    \entry{LTC4361}{report}{}
+      \name{author}{1}{}{%
+        {{hash=43d1d0b28ff176d3a6aea2cfdcffab1b}{%
+           family={Technology},
+           familyi={T\bibinitperiod},
+           given={Linear},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Linear Technology}%
+      }
+      \strng{namehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{fullhash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{bibnamehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{authorbibnamehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{authornamehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{authorfullhash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LTC4361/LTC4361-1 Overvoltage/Overcurrent Protection Controller}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4361-1-4361-2.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4361-1-4361-2.pdf
+      \endverb
+    \endentry
+    \entry{altiumfr4}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4e0aecbba8982773575b8182dae5f341}{%
+           family={Resources},
+           familyi={R\bibinitperiod},
+           given={Altium},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e0aecbba8982773575b8182dae5f341}
+      \strng{fullhash}{4e0aecbba8982773575b8182dae5f341}
+      \strng{bibnamehash}{4e0aecbba8982773575b8182dae5f341}
+      \strng{authorbibnamehash}{4e0aecbba8982773575b8182dae5f341}
+      \strng{authornamehash}{4e0aecbba8982773575b8182dae5f341}
+      \strng{authorfullhash}{4e0aecbba8982773575b8182dae5f341}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://resources.altium.com/es/p/fr4}
+      \field{title}{Características del FR4 para placas de circuitos impresos}
+      \field{year}{2023}
+    \endentry
+    \entry{energiasat1}{book}{}
+      \name{author}{1}{}{%
+        {{hash=92f5b84a9df8e2327ac0ab2551b35fc8}{%
+           family={Llorente},
+           familyi={L\bibinitperiod},
+           given={Jesús\bibnamedelima González},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{fullhash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{bibnamehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{authorbibnamehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{authornamehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{authorfullhash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789588866949}
+      \field{title}{Obtención de energía solar y su uso eficiente en la orientación de pequeños satélites}
+    \endentry
+    \entry{jara2022orbit}{article}{}
+      \name{author}{7}{}{%
+        {{hash=19a1ecc5bd4d8d7ef5c781ce777f57d4}{%
+           family={Jara},
+           familyi={J\bibinitperiod},
+           given={Adolfo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c96c76304f45236401ef0e85ef27dc5}{%
+           family={Lepcha},
+           familyi={L\bibinitperiod},
+           given={Pooja},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ade1f5ad9ae8a8bb002b19ffc731a1c9}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sankyun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe076fe6daffbe498ddeb18727789953}{%
+           family={Masui},
+           familyi={M\bibinitperiod},
+           given={Hirokazu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ef565e1382bcb20b2768e574e96cb394}{%
+           family={Yamauchi},
+           familyi={Y\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dd06d23a66b9d54cad277bb977f421ae}{%
+           family={Maeda},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f4b4b48f09da8309e9598ad826bc9af0}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Mengu},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{fullhash}{6c506356deba16bcaa2f7a3ad3cef00f}
+      \strng{bibnamehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{authorbibnamehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{authornamehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{authorfullhash}{6c506356deba16bcaa2f7a3ad3cef00f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{12}
+      \field{title}{On-orbit electrical power system dataset of 1U CubeSat constellation}
+      \field{volume}{45}
+      \field{year}{2022}
+      \field{pages}{108697}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2022.108697
+      \endverb
+    \endentry
+    \entry{pycubed}{online}{}
+      \name{author}{3}{}{%
+        {{hash=c8322ae818833dc4ffee0238337d640c}{%
+           family={Holliday},
+           familyi={H\bibinitperiod},
+           given={Andrea\bibnamedelimb Ramírez\bibnamedelima Maximillian},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d995e4f234d1a4b8ea2108f220985dd9}{%
+           family={Settle},
+           familyi={S\bibinitperiod},
+           given={Tane\bibnamedelimb Tatum\bibnamedelima Connor},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a22988949859cdeefa3c249185b34b04}{%
+           family={Senesky},
+           familyi={S\bibinitperiod},
+           given={Zachary\bibnamedelimb Manchester\bibnamedelima Debbie},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{fullhash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{bibnamehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{authorbibnamehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{authornamehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{authorfullhash}{01f97998b787bcd510da798fc47e5fc9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PyCubed: An Open-Source, Radiation-Tested CubeSat Platform Programmable Entirely in Python}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://digitalcommons.usu.edu/smallsat/2019/all2019/65/
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.usu.edu/smallsat/2019/all2019/65/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

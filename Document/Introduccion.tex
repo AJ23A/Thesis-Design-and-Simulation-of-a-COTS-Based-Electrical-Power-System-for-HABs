@@ -1,0 +1,113 @@
+%INTRODUCCION
+\chapter{Introducción}
+
+\section{Planteamiento del problema}
+\vspace{1 cm}
+
+Los \emph{High Altitude Balloon} (HAB) se perfilan como herramientas efectivas y de bajo costo para instituciones que dan sus primeros pasos en la exploración espacial. Fabricados comúnmente con materiales económicos como el látex, estos globos permiten simular condiciones espaciales en misiones de corta duración, generalmente de unas pocas horas \cite{Saad2015}. Es crucial destacar que los HAB representan una opción inicial y asequible. A medida que las instituciones educativas avanzan en sus investigaciones, pueden acceder a plataformas más sofisticadas y especializadas.
+
+En los Estados Unidos, instituciones como \emph{The National Weather Service}, en conjunto con la \emph{National Oceanic and Atmospheric Administration} (NOAA), lanzan diariamente múltiples HABs con el propósito de obtener información atmosférica \cite{noaa_upperair, noaa_radiosondes}. Además, en el ámbito científico, especialmente en astronomía, se han utilizado para experimentos como BOOMERanG, destinado a mapear el fondo cósmico de microondas (CMB) desde el Polo Sur. Asimismo, en 2017, 52 equipos de 30 estados diferentes colaboraron para el lanzamiento masivo de HABs y obtener imágenes en tiempo real y de alta calidad durante el eclipse solar total del 21 de agosto \cite{Jarrell2017}.
+
+El desarrollo tecnológico en torno a los HABs es activo, incluso con diseños destinados a ser utilizados más allá de nuestro planeta, como el caso del VAB-X, un modelo propuesto para estudiar imágenes mediante vuelos sostenidos en la atmósfera de Venus \cite{Bugga2022}.
+
+Actualmente, la NASA lidera el desarrollo de tecnología para globos científicos. Durante más de 30 años, el \emph{NASA Balloon Program} ha proporcionado plataformas de globos para investigaciones científicas y tecnológicas, logrando descubrimientos significativos que han contribuido a nuestro entendimiento de la Tierra, el sistema solar y el universo.
+
+\newpage
+
+Los HAB permiten realizar experimentos científicos en la estratosfera, aproximadamente a una altura de 30 km sobre la superficie terrestre, representando una oportunidad valiosa para países de Latinoamérica que aún no han incursionado en la exploración espacial, como es el caso de El Salvador \cite{latam}. A diferencia de los proyectos con cohetes y nanosatélites, los HAB son más asequibles, convirtiéndolos en una opción prometedora \cite{Jarrell2017}.
+
+La necesidad de un sistema eléctrico de potencia (EPS, por sus siglas en inglés \textit{Electrical Power System}) eficiente y confiable es crítica para garantizar el funcionamiento de los instrumentos a bordo.
+
+Un EPS se encarga de proveer, almacenar, acondicionar, controlar y distribuir la potencia eléctrica necesaria. Su diseño implica considerar aspectos como la fuente de energía, la capacidad de almacenamiento, el consumo, el voltaje, la corriente, la protección y la regulación.
+
+Este proyecto de investigación aborda el diseño y simulación de un EPS adaptado a las condiciones específicas de misiones de globos de gran altitud. Se toma como referencia el estándar \emph{CubeSat}, ampliamente utilizado en nanosatélites, con el objetivo de adaptar sus principios de funcionamiento. La implementación eficiente de sistemas basados en componentes \emph{Commercial off-the-shelf} (COTS) y soluciones probadas plantea desafíos, como la falta de integración óptima y posibles conflictos de interoperabilidad. En este contexto, se destaca la necesidad de desarrollar un enfoque que permita una implementación más eficaz, acelerando el proceso de desarrollo y reduciendo los riesgos asociados.
+
+Este proyecto contribuye a la confiabilidad de futuras investigaciones y pruebas en la estratosfera, y ocurre en el contexto de la misión StratoBalloon del Observatorio Micro-Macro (OMM). Se adopta el modelo V como metodología, debido a que es el ciclo de proyectos aprobado por la NASA \cite{NASA2016}. El proyecto se divide en las siguientes etapas: definición de requisitos, diseño conceptual, diseño detallado, implementación, verificación, validación y operación.
+
+Hasta la fecha actual, año 2023, el registro de este tipo de proyectos en El Salvador es escaso, con un enfoque predominantemente recreativo a nivel aficionado \cite{NC}, a excepción de una publicación en una conferencia centroamericana \cite{Reyes2022} por parte de miembros del proyecto universitario al que pertenece esta tesis. Durante la búsqueda bibliográfica realizada, se ha constatado la ausencia de otras investigaciones sobre sistemas de energía para HAB a nivel nacional y regional.
+
+
+\newpage
+\section{Motivación del trabajo}
+\vspace{1 cm}
+La región de \emph{Near-Space}, situada a altitudes comprendidas entre los 20 y 100 kilómetros, alberga un vasto potencial para la investigación en diversas disciplinas científicas, como la física atmosférica, la biología y las ciencias ambientales. No obstante, enfoques convencionales, tales como nanosatélites en órbita terrestre baja (LEO, por sus siglas en inglés \emph{Low Earth Orbit}) y aeronaves tradicionales, se ven limitados en su capacidad de explorar esta región. En este contexto, los HABs emergen como una prometedora alternativa para llevar a cabo experimentos científicos.
+
+La realización de proyectos que involucran sondas HAB no solo conlleva un potencial científico de relevancia, sino que también posee un significativo valor en el ámbito educativo. Esto se debe a que permite a los estudiantes participar en actividades de investigación, aplicar conocimientos teóricos mediante la práctica y fortalecer su capacidad para abordar desafíos multidisciplinarios. Además, estas misiones brindan a las instituciones educativas la oportunidad de incursionar en el sector aeroespacial, adquirir experiencia en el desarrollo de misiones espaciales y establecer colaboraciones tanto a nivel nacional como internacional.
+
+Bajo este panorama, en el Observatorio Micro Macro se desarrolla una misión de globo metereológico, StratoBalloon, un desafío tecnológico a trabajar con un equipo multidisciplinario estudiantil.
+
+Dentro de los componentes electrónicos que conforman una sonda HAB, el sistema de energía o EPS, desempeña un papel crítico en el funcionamiento y la eficacia de la misión espacial en su conjunto.
+
+La relevancia y originalidad de este trabajo radica en el desarrollo del primer sistema de energía de bajo costo destinado a sondas HAB en nuestro país, con enfoque particular a la misión StratoBalloon. A través de la utilización de componentes electrónicos comerciales disponibles (COTS), la implementación de software de código abierto, simulaciones basadas en el modelo atmosférico GFS y el estándar atmosférico ISA, la concepción de arquitecturas lógicas y físicas, listas de verificación y una exhaustiva documentación, se consolida la propuesta de diseño del sistema EPS en este proyecto de investigación.
+
+\newpage
+
+\section{Objetivos de la investigación}
+\vspace{1 cm}
+\subsection{Objetivo General}
+Diseñar un Sistema Eléctrico de Potencia (EPS) eficiente y confiable para misiones de corta duración en Globos de Gran Altitud (HAB), haciendo uso de componentes electrónicos comerciales disponibles (COTS) y software de código abierto.
+
+\subsection{Objetivos Específicos}
+\begin{enumerate}
+    \item Determinar las condiciones ambientales aproximadas que caracterizan las misiones de HAB a la estratósfera, a una altitud de 30 kilómetros. 
+
+    \item Establecer los requisitos eléctricos y energéticos necesarios para la misión, teniendo en cuenta los sistemas de navegación, telemetría y carga útil de la misión StratoBalloon.
+
+    \item Diseñar tanto la arquitectura lógica como la física del EPS, con el propósito de identificar y seleccionar los componentes electrónicos y baterías más apropiados, considerando las condiciones de operación específicas de las misiones de HAB.
+
+    \item Elaborar un plan de pruebas completo destinado a la verificación y validación del EPS de una sonda HAB, asegurando su correcto funcionamiento y confiabilidad en el entorno de la misión.
+\end{enumerate}
+\newpage
+
+
+\section{Aspectos a considerar}
+\vspace{1 cm}
+
+\subsection{Alcance}
+
+El alcance de la investigación es diseñar un sistema de energía eléctrica eficiente y confiable para misiones de corta duración en \emph{High Altitude Balloons} (HAB), que pueda alcanzar una altura de 30 km sobre el nivel del mar. Se utilizarán componentes \emph{Commercial Off-The-Shelf}  (COTS) y software libre para reducir los costos de fabricación y fomentar la colaboración en la comunidad. 
+
+\subsection{Limitaciones}
+\begin{enumerate}
+    \item Recursos limitados: La disponibilidad de materiales y los costos asociados a las pruebas de laboratorio dependen de los fondos disponibles en el proyecto StratoBalloon y del respaldo proporcionado por la Escuela de Ingeniería Eléctrica.
+
+    \item Tiempo: el período para desarrollar el proyecto de investigación es aproximadamente de 16 semanas, el uso de equipo o laboratorio está sujeto a terceros, lo cual podría incluso limitar el número de experimentos. De igual forma, la importación de componentes necesarios para las pruebas podría atrasar el desarrollo de la investigación.
+
+    \item Pruebas en laboratorio: Las pruebas que se realicen idealmente deben simular las condiciones ambientales que se experimentarían en una sonda de HAB en trayectoria hacia la estratósfera. Es posible que sea difícil replicar estas condiciones con precisión en un laboratorio, o este no cuente con equipo adecuado para realizarlas, lo que podría afectar los resultados obtenidos.
+
+    \item Simulaciones: Aunque el modelo \emph{Global Forecast System} (GFS) desarrollado por la \emph{National Oceanic and Atmospheric Administration} (NOAA) es una referencia útil para la obtención de datos atmosféricos y simulación de trayectorias, es importante tener en cuenta que este modelo también tiene limitaciones y puede no ser completamente preciso en todas las situaciones. De igual forma, el modelo atmosférico ISA.
+\end{enumerate}
+
+
+\newpage
+
+
+\section{Ruta de la Tesis}
+
+El contenido de esta tesis se divide en ocho capítulos.
+
+En el Capítulo 1, se introduce el tema de investigación, se plantea el problema, se establecen los objetivos, el alcance y las limitaciones.
+
+En el Capítulo 2, se revisa el estado del arte de los sistemas eléctricos de potencia (EPS) en la industria aeroespacial y las metodologías para su diseño.
+
+En el Capítulo 3, se identifican las necesidades y restricciones que condicionan el diseño de un EPS para \emph{BalloonSat}, como las condiciones ambientales, el presupuesto energético, y las limitaciones de masa y volumen. También se resumen los requisitos que debe cumplir el sistema.
+
+En el Capítulo 4, se define la arquitectura del EPS a nivel de bloques funcionales, desde el nivel 0 hasta el nivel 2, especificando las entradas, salidas y funciones de cada bloque.
+
+En el Capítulo 5, se detalla el diseño e implementación del sistema, describiendo los componentes seleccionados y las capacidades desarrolladas para cada bloque. Se abordan aspectos como el microcontrolador, el \emph{datalogger}, la etapa de potencia, la instrumentación, las baterías, el cargador, la regulación de voltaje y los dispositivos de protección eléctrica.
+
+En el Capítulo 6, se presenta la integración de los sistemas, explicando cómo se conectan los componentes entre sí y cómo se realiza el control y la comunicación del sistema. También se describen las pruebas realizadas para verificar el correcto funcionamiento del sistema integrado.
+
+El Capítulo 7 consta de las listas de validación y verificación del sistema.
+
+Finalmente, en el capítulo 8 se resumen los resultados de este trabajo de grado y se ofrecen recomendaciones para futuros trabajos relacionados.
+
+
+
+
+
+
+
+
+%Here's an endnote.\endnote{Endnotes are notes that you can use to explain text in a document.}
+% FIN INTRODUCCIÓN

@@ -1,0 +1,1830 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Saad2015}{report}{}
+      \name{author}{1}{}{%
+        {{hash=d1f39ca1a0e839157ff3132343d63feb}{%
+           family={Saad},
+           familyi={S\bibinitperiod},
+           given={Marissa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{fullhash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{bibnamehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{authorbibnamehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{authornamehash}{d1f39ca1a0e839157ff3132343d63feb}
+      \strng{authorfullhash}{d1f39ca1a0e839157ff3132343d63feb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The North Dakota Space Grant Consortium provides middle and high schools in North Dakota with a student launch competition, which reinforces hands-on STEM education with a real-world, inquiry-based, and NASA-relevant research project. The Near-Space Balloon Competition Handbook}
+      \field{year}{2015}
+      \keyw{http:/blogs.und.edu/nsbc}
+    \endentry
+    \entry{noaa_upperair}{misc}{}
+      \list{organization}{1}{%
+        {NOAA}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{note}{Accedido el 14 de noviembre de 2023 a las 23:27 CST desde El Salvador}
+      \field{title}{Weather Balloon / Upper Air Observations}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.weather.gov/chs/upperair
+      \endverb
+      \verb{url}
+      \verb https://www.weather.gov/chs/upperair
+      \endverb
+    \endentry
+    \entry{noaa_radiosondes}{misc}{}
+      \list{organization}{1}{%
+        {NOAA}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{note}{Accedido el 14 de noviembre de 2023 a las 23:28 CST desde El Salvador}
+      \field{title}{Radiosondes}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.noaa.gov/jetstream/upperair/radiosondes
+      \endverb
+      \verb{url}
+      \verb https://www.noaa.gov/jetstream/upperair/radiosondes
+      \endverb
+    \endentry
+    \entry{Jarrell2017}{report}{}
+      \name{author}{1}{}{%
+        {{hash=a6b2534dce710639ee576f6b395008a2}{%
+           family={Jarrell},
+           familyi={J\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{fullhash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{bibnamehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{authorbibnamehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{authornamehash}{a6b2534dce710639ee576f6b395008a2}
+      \strng{authorfullhash}{a6b2534dce710639ee576f6b395008a2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{THE ECLIPSE BALLOONING PROJECT AT VANDERBILT UNIVERSITY AND THE CONSTRUCTION OF CUSTOM EQUIPMENT}
+      \field{year}{2017}
+    \endentry
+    \entry{Bugga2022}{article}{}
+      \name{author}{8}{}{%
+        {{hash=f62f869e4246dd3b145a336b2c334ab9}{%
+           family={Bugga},
+           familyi={B\bibinitperiod},
+           given={Ratnakumar},
+           giveni={R\bibinitperiod}}}%
+        {{hash=204e31b45cac7a839ce9b137d9596704}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={John\bibnamedelima Paul},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f7de1c088bb94f905917457d96876fc5}{%
+           family={Pauken},
+           familyi={P\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4db86ea50eeeb6cd9265b02b509a3afe}{%
+           family={Stariha},
+           familyi={S\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5b1f1f5d1d2cfbf0e802a73af85e4523}{%
+           family={Cutts},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5aff870a1c3c4e91cf0e55f830977058}{%
+           family={Ahn},
+           familyi={A\bibinitperiod},
+           given={Channing},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5543e5d00759d635f3bed1fa5a326e2f}{%
+           family={Fultz},
+           familyi={F\bibinitperiod},
+           given={Brent},
+           giveni={B\bibinitperiod}}}%
+        {{hash=81654017c8788f8647074a421f2d62ee}{%
+           family={Nock},
+           familyi={N\bibinitperiod},
+           given={Kerry},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{fb113e1f41da63375240d4e6fa2cddc1}
+      \strng{fullhash}{1bf2ae52a5e83321cd93e89ad4d2e83e}
+      \strng{bibnamehash}{fb113e1f41da63375240d4e6fa2cddc1}
+      \strng{authorbibnamehash}{fb113e1f41da63375240d4e6fa2cddc1}
+      \strng{authornamehash}{fb113e1f41da63375240d4e6fa2cddc1}
+      \strng{authorfullhash}{1bf2ae52a5e83321cd93e89ad4d2e83e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00945765}
+      \field{journaltitle}{Acta Astronautica}
+      \field{month}{8}
+      \field{title}{Extended-range Variable Altitude Balloons for Venus atmospheric missions}
+      \field{volume}{197}
+      \field{year}{2022}
+      \field{pages}{69\bibrangedash 80}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.actaastro.2022.05.007
+      \endverb
+      \keyw{Atmospheric missions,Hydrogen balloon,Hydrogen storage,Solid oxide fuel cell,Variable altitude,Venus balloons}
+    \endentry
+    \entry{latam}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d31a03c9a115fcaf6cdac3748b12db3e}{%
+           family={Guzmán},
+           familyi={G\bibinitperiod},
+           given={Sargento\bibnamedelimb Primero\bibnamedelima Joseph},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d31a03c9a115fcaf6cdac3748b12db3e}
+      \strng{fullhash}{d31a03c9a115fcaf6cdac3748b12db3e}
+      \strng{bibnamehash}{d31a03c9a115fcaf6cdac3748b12db3e}
+      \strng{authorbibnamehash}{d31a03c9a115fcaf6cdac3748b12db3e}
+      \strng{authornamehash}{d31a03c9a115fcaf6cdac3748b12db3e}
+      \strng{authorfullhash}{d31a03c9a115fcaf6cdac3748b12db3e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Programas espaciales en América Latina}
+      \field{year}{2021}
+    \endentry
+    \entry{NASA2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1f99771bc3e23e6097509a331544ab65}{%
+           family={NASA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{fullhash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{bibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorbibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authornamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorfullhash}{1f99771bc3e23e6097509a331544ab65}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NASA Systems Engineering HandBook}
+      \field{year}{2016}
+    \endentry
+    \entry{NC}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5ce0f6f0631684105c6fc4b8f3aee696}{%
+           family={Gráfica},
+           familyi={G\bibinitperiod},
+           given={La\bibnamedelima Prensa},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ce0f6f0631684105c6fc4b8f3aee696}
+      \strng{fullhash}{5ce0f6f0631684105c6fc4b8f3aee696}
+      \strng{bibnamehash}{5ce0f6f0631684105c6fc4b8f3aee696}
+      \strng{authorbibnamehash}{5ce0f6f0631684105c6fc4b8f3aee696}
+      \strng{authornamehash}{5ce0f6f0631684105c6fc4b8f3aee696}
+      \strng{authorfullhash}{5ce0f6f0631684105c6fc4b8f3aee696}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nuevo Cuscatlán lanza otro proyecto aeroespacial}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.laprensagrafica.com/elsalvador/Nuevo-Cuscatlan-lanza-otro-proyecto-aeroespacial-20140828-0066.html
+      \endverb
+      \verb{url}
+      \verb https://www.laprensagrafica.com/elsalvador/Nuevo-Cuscatlan-lanza-otro-proyecto-aeroespacial-20140828-0066.html
+      \endverb
+    \endentry
+    \entry{Reyes2022}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=c838b6a9f21b1349f446411c8cfd29c3}{%
+           family={Reyes},
+           familyi={R\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=737356c7e253813fde5a6f49e2af26e5}{%
+           family={Larreynaga},
+           familyi={L\bibinitperiod},
+           given={Osmin},
+           giveni={O\bibinitperiod}}}%
+        {{hash=72ed1df9200284b6ed888e7ae1ea0c5a}{%
+           family={Pleites},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e23b4ef38da923401045f710a5f19139}{%
+           family={Martinez},
+           familyi={M\bibinitperiod},
+           given={Alejandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ef12bd9bccdfdbcadef0e123b92bfc15}{%
+           family={Vasquez},
+           familyi={V\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod}}}%
+        {{hash=921d03a3d87df4667596b9160ce2e336}{%
+           family={Aldana},
+           familyi={A\bibinitperiod},
+           given={Josue},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c2d9f499ebdf17209e3fb9346a310385}
+      \strng{fullhash}{bbfcbb5cb7dcc612dc6f0248031853c2}
+      \strng{bibnamehash}{bbfcbb5cb7dcc612dc6f0248031853c2}
+      \strng{authorbibnamehash}{bbfcbb5cb7dcc612dc6f0248031853c2}
+      \strng{authornamehash}{c2d9f499ebdf17209e3fb9346a310385}
+      \strng{authorfullhash}{bbfcbb5cb7dcc612dc6f0248031853c2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-6654-5353-0}
+      \field{journaltitle}{2022 IEEE Central America and Panama Student Conference (CONESCAPAN)}
+      \field{month}{10}
+      \field{title}{Selección de Antenas UHF para una Misión Near-Space en un HAB y las frecuencias reguladas}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/CONESCAPAN56456.2022.9959735
+      \endverb
+    \endentry
+    \entry{NASA2022}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1f99771bc3e23e6097509a331544ab65}{%
+           family={NASA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{fullhash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{bibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorbibnamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authornamehash}{1f99771bc3e23e6097509a331544ab65}
+      \strng{authorfullhash}{1f99771bc3e23e6097509a331544ab65}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{https://www.nasa.gov/scientific-balloons/types-of-balloons}
+      \field{month}{9}
+      \field{title}{Scientific Balloons}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb National Aeronautics and Space Administration (NASA)
+      \endverb
+      \verb{url}
+      \verb National%20Aeronautics%20and%20Space%20Administration%20(NASA)
+      \endverb
+    \endentry
+    \entry{NASAColumbia}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ccacae9dfd9647e1d6c63b169fc5937c}{%
+           family={NASA},
+           familyi={N\bibinitperiod},
+           given={Columbia\bibnamedelimb Scientific\bibnamedelimb Balloon\bibnamedelimb Facility\bibnamedelima -},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod}}}%
+      }
+      \strng{namehash}{ccacae9dfd9647e1d6c63b169fc5937c}
+      \strng{fullhash}{ccacae9dfd9647e1d6c63b169fc5937c}
+      \strng{bibnamehash}{ccacae9dfd9647e1d6c63b169fc5937c}
+      \strng{authorbibnamehash}{ccacae9dfd9647e1d6c63b169fc5937c}
+      \strng{authornamehash}{ccacae9dfd9647e1d6c63b169fc5937c}
+      \strng{authorfullhash}{ccacae9dfd9647e1d6c63b169fc5937c}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Scientific Balloons}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.csbf.nasa.gov/balloons.html
+      \endverb
+      \verb{url}
+      \verb https://www.csbf.nasa.gov/balloons.html
+      \endverb
+    \endentry
+    \entry{Nobel}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9fb3ce28762fdcc9df733c01138c3133}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={The\bibnamedelima Nobel},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fb3ce28762fdcc9df733c01138c3133}
+      \strng{fullhash}{9fb3ce28762fdcc9df733c01138c3133}
+      \strng{bibnamehash}{9fb3ce28762fdcc9df733c01138c3133}
+      \strng{authorbibnamehash}{9fb3ce28762fdcc9df733c01138c3133}
+      \strng{authornamehash}{9fb3ce28762fdcc9df733c01138c3133}
+      \strng{authorfullhash}{9fb3ce28762fdcc9df733c01138c3133}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{All Nobel Prizes in Physics}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics/
+      \endverb
+      \verb{url}
+      \verb https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-physics/
+      \endverb
+    \endentry
+    \entry{Vecino2013}{report}{}
+      \name{author}{2}{}{%
+        {{hash=ec5708b065dd28773fac0ef4a3b92c9d}{%
+           family={Vecino},
+           familyi={V\bibinitperiod},
+           given={Andrés\bibnamedelima Rambal},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=119b8ab71073a5607858ee2e5213b1d5}{%
+           family={González-Llorente},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{de368bd7a3b0abbed71d7cde2bc06764}
+      \strng{fullhash}{de368bd7a3b0abbed71d7cde2bc06764}
+      \strng{bibnamehash}{de368bd7a3b0abbed71d7cde2bc06764}
+      \strng{authorbibnamehash}{de368bd7a3b0abbed71d7cde2bc06764}
+      \strng{authornamehash}{de368bd7a3b0abbed71d7cde2bc06764}
+      \strng{authorfullhash}{de368bd7a3b0abbed71d7cde2bc06764}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prototipo de un sistema de energía para misiones Cubesats y BalloonSats}
+      \field{year}{2013}
+      \keyw{BalloonSats,Battery charger Palabras claves: Convertidor dc-dc,Cargador de batería,CubeSat,Globo sonda,dc-dc converter}
+    \endentry
+    \entry{comparasun}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=119b8ab71073a5607858ee2e5213b1d5}{%
+           family={González-Llorente},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod}}}%
+        {{hash=fc8127336d3e1b640d4c0f36ad66faba}{%
+           family={Hurtado},
+           familyi={H\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ciudad de Panamá, Panamá}%
+      }
+      \strng{namehash}{0cef20fef2ad181b7d338913f3ef795b}
+      \strng{fullhash}{0cef20fef2ad181b7d338913f3ef795b}
+      \strng{bibnamehash}{0cef20fef2ad181b7d338913f3ef795b}
+      \strng{authorbibnamehash}{0cef20fef2ad181b7d338913f3ef795b}
+      \strng{authornamehash}{0cef20fef2ad181b7d338913f3ef795b}
+      \strng{authorfullhash}{0cef20fef2ad181b7d338913f3ef795b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{10th Latin American and Caribbean Conference for Engineering and Technology}
+      \field{month}{7}
+      \field{title}{Comparación de modelos para celdas solares de alta eficiencia usadas en pequeños satélites y CubeSats}
+      \field{year}{2012}
+    \endentry
+    \entry{energiasat}{book}{}
+      \name{author}{1}{}{%
+        {{hash=92f5b84a9df8e2327ac0ab2551b35fc8}{%
+           family={Llorente},
+           familyi={L\bibinitperiod},
+           given={Jesús\bibnamedelima González},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{fullhash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{bibnamehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{authorbibnamehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{authornamehash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \strng{authorfullhash}{92f5b84a9df8e2327ac0ab2551b35fc8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789588866949}
+      \field{title}{Obtención de energía solar y su uso eficiente en la orientación de pequeños satélites}
+    \endentry
+    \entry{jara2022orbit}{article}{}
+      \name{author}{7}{}{%
+        {{hash=19a1ecc5bd4d8d7ef5c781ce777f57d4}{%
+           family={Jara},
+           familyi={J\bibinitperiod},
+           given={Adolfo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c96c76304f45236401ef0e85ef27dc5}{%
+           family={Lepcha},
+           familyi={L\bibinitperiod},
+           given={Pooja},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ade1f5ad9ae8a8bb002b19ffc731a1c9}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sankyun},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fe076fe6daffbe498ddeb18727789953}{%
+           family={Masui},
+           familyi={M\bibinitperiod},
+           given={Hirokazu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ef565e1382bcb20b2768e574e96cb394}{%
+           family={Yamauchi},
+           familyi={Y\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=dd06d23a66b9d54cad277bb977f421ae}{%
+           family={Maeda},
+           familyi={M\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f4b4b48f09da8309e9598ad826bc9af0}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Mengu},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{fullhash}{6c506356deba16bcaa2f7a3ad3cef00f}
+      \strng{bibnamehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{authorbibnamehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{authornamehash}{3fc3e72630b9a644fb0906f528418ce1}
+      \strng{authorfullhash}{6c506356deba16bcaa2f7a3ad3cef00f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Data in Brief}
+      \field{month}{12}
+      \field{title}{On-orbit electrical power system dataset of 1U CubeSat constellation}
+      \field{volume}{45}
+      \field{year}{2022}
+      \field{pages}{108697}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.dib.2022.108697
+      \endverb
+    \endentry
+    \entry{pycubed}{online}{}
+      \name{author}{3}{}{%
+        {{hash=c8322ae818833dc4ffee0238337d640c}{%
+           family={Holliday},
+           familyi={H\bibinitperiod},
+           given={Andrea\bibnamedelimb Ramírez\bibnamedelima Maximillian},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d995e4f234d1a4b8ea2108f220985dd9}{%
+           family={Settle},
+           familyi={S\bibinitperiod},
+           given={Tane\bibnamedelimb Tatum\bibnamedelima Connor},
+           giveni={T\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a22988949859cdeefa3c249185b34b04}{%
+           family={Senesky},
+           familyi={S\bibinitperiod},
+           given={Zachary\bibnamedelimb Manchester\bibnamedelima Debbie},
+           giveni={Z\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{fullhash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{bibnamehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{authorbibnamehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{authornamehash}{01f97998b787bcd510da798fc47e5fc9}
+      \strng{authorfullhash}{01f97998b787bcd510da798fc47e5fc9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PyCubed: An Open-Source, Radiation-Tested CubeSat Platform Programmable Entirely in Python}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://digitalcommons.usu.edu/smallsat/2019/all2019/65/
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.usu.edu/smallsat/2019/all2019/65/
+      \endverb
+    \endentry
+    \entry{TASEC}{article}{}
+      \name{author}{21}{}{%
+        {{hash=4c07656f5896994eaa8908eae244c83d}{%
+           family={González-Bárcena},
+           familyi={G\bibinithyphendelim B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=84c7c512d173403d061a6d067c520494}{%
+           family={Peinado-Pérez},
+           familyi={P\bibinithyphendelim P\bibinitperiod},
+           given={Lilian},
+           giveni={L\bibinitperiod}}}%
+        {{hash=98c97674aa574e93fe56daab72b347a5}{%
+           family={Fernández-Soler},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=98fdcb282fb2c3b66da43e2451e8405f}{%
+           family={Pérez-Muñoz},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Ángel\bibnamedelima Grover},
+           giveni={Á\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=bfe7ea7b2b6b006539807fb6c6a64593}{%
+           family={Álvarez-Romero},
+           familyi={Á\bibinithyphendelim R\bibinitperiod},
+           given={Jose\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4ce9805693d8746f86bba2f9458f40cc}{%
+           family={Ayape},
+           familyi={A\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=beb1ffe86621d965623fecce7e00d341}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=063473715cdc5949270e477bfcf28ec5}{%
+           family={Bermejo-Ballesteros},
+           familyi={B\bibinithyphendelim B\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=543bac9bf5a1a82040f28d35daf39cc7}{%
+           family={Porras-Hermoso},
+           familyi={P\bibinithyphendelim H\bibinitperiod},
+           given={Ángel\bibnamedelima Luis},
+           giveni={Á\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6686a5ca42a975d3c9abeff25afd3a8f}{%
+           family={Alfonso-Corcuera},
+           familyi={A\bibinithyphendelim C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c3867fc60e121a10f20a896b484fda72}{%
+           family={Marín-Coca},
+           familyi={M\bibinithyphendelim C\bibinitperiod},
+           given={Sergio},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e36d843a89c0f11894ae4656b3214626}{%
+           family={Soto-Aranaz},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Manú},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9d0ba71330ecae1eeec6f88e4ff723e4}{%
+           family={Boado-Cuartero},
+           familyi={B\bibinithyphendelim C\bibinitperiod},
+           given={Blanca},
+           giveni={B\bibinitperiod}}}%
+        {{hash=79bc2041ff630ac881b11250c695d4c6}{%
+           family={Garcia-Romero},
+           familyi={G\bibinithyphendelim R\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b103f2a9ae7d5fc7c62c3d5020d3bec7}{%
+           family={Pindado},
+           familyi={P\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
+        {{hash=37ed77c9f46afc6080227e64165433f6}{%
+           family={Pérez-Álvarez},
+           familyi={P\bibinithyphendelim Á\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f36122d911cac968e9f12ccde5f380bb}{%
+           family={Zamorano},
+           familyi={Z\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=18974195171d46c91d26fb454f743b04}{%
+           family={Torralbo},
+           familyi={T\bibinitperiod},
+           given={Ignacio},
+           giveni={I\bibinitperiod}}}%
+        {{hash=5b9842a798dff6dc46d3c6e95da995dc}{%
+           family={Piqueras},
+           familyi={P\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=299978fa6a71eea050c3202b318ac9fe}{%
+           family={Pérez-Grande},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
+           given={Isabel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=bc70b495b59f31d01f6a4bfdf11e4a1f}{%
+           family={Sanz-Andrés},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Ángel},
+           giveni={Á\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{fullhash}{11e7ebcc4732114f269037324577e29c}
+      \strng{bibnamehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{authorbibnamehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{authornamehash}{a29247662ca39c573fbc5660acae309d}
+      \strng{authorfullhash}{11e7ebcc4732114f269037324577e29c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00945765}
+      \field{journaltitle}{Acta Astronautica}
+      \field{month}{7}
+      \field{title}{TASEC-Lab: A COTS-based CubeSat-like university experiment for characterizing the convective heat transfer in stratospheric balloon missions}
+      \field{volume}{196}
+      \field{year}{2022}
+      \field{pages}{244\bibrangedash 258}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.actaastro.2022.04.028
+      \endverb
+      \keyw{Ballooning,Convection,CubeSat,Heat transfer,Project-based learning,Stratosphere}
+    \endentry
+    \entry{Eleazar2020}{report}{}
+      \name{author}{4}{}{%
+        {{hash=339bf30bcb221aa293997f32ee5f82b9}{%
+           family={Eleazar},
+           familyi={E\bibinitperiod},
+           given={Aldo},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a2b0bb15748ee46ea9f3f4b810707e12}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Pérez},
+           giveni={P\bibinitperiod}}}%
+        {{hash=47306a4be89460c90c268ae1022a535e}{%
+           family={Aragón},
+           familyi={A\bibinitperiod},
+           given={Edwin\bibnamedelima Martínez},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7f726e2a7ed58cb4863a238f49bb5490}{%
+           family={Reyes},
+           familyi={R\bibinitperiod},
+           given={Salvador\bibnamedelima Villarreal},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ad0eccefa3d2aaf706bcad5eb7dfc65}
+      \strng{fullhash}{1813fb110185dfcfbc7023f959ea38b8}
+      \strng{bibnamehash}{1813fb110185dfcfbc7023f959ea38b8}
+      \strng{authorbibnamehash}{1813fb110185dfcfbc7023f959ea38b8}
+      \strng{authornamehash}{5ad0eccefa3d2aaf706bcad5eb7dfc65}
+      \strng{authorfullhash}{1813fb110185dfcfbc7023f959ea38b8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Baterías que dan vida a un nanosatélite}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb www.nanosats.eu
+      \endverb
+      \verb{url}
+      \verb www.nanosats.eu
+      \endverb
+    \endentry
+    \entry{Knap2020}{generic}{}
+      \name{author}{3}{}{%
+        {{hash=2d9b2045e09a1b593d934d0c86774872}{%
+           family={Knap},
+           familyi={K\bibinitperiod},
+           given={Vaclav},
+           giveni={V\bibinitperiod}}}%
+        {{hash=0c97066fb34d595fe4ed1d1f6ceefa14}{%
+           family={Vestergaard},
+           familyi={V\bibinitperiod},
+           given={Lars\bibnamedelima Kjeldgaard},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ec1e419934f8efd2973dbbc7453d51df}{%
+           family={Stroe},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima Ioan},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{e11223132d9b613f20fa8bea7517781c}
+      \strng{fullhash}{e11223132d9b613f20fa8bea7517781c}
+      \strng{bibnamehash}{e11223132d9b613f20fa8bea7517781c}
+      \strng{authorbibnamehash}{e11223132d9b613f20fa8bea7517781c}
+      \strng{authornamehash}{e11223132d9b613f20fa8bea7517781c}
+      \strng{authorfullhash}{e11223132d9b613f20fa8bea7517781c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{19961073}
+      \field{issue}{15}
+      \field{journaltitle}{Energies}
+      \field{month}{8}
+      \field{title}{A review of battery technology in cubesats and small satellite solutions}
+      \field{volume}{13}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.3390/en13164097
+      \endverb
+      \keyw{Battery,Battery pack,CubeSat,Electrical power supply,Lithium-ion,Market,Qualification,Requirement,Satellite,Standard}
+    \endentry
+    \entry{Ma2018}{generic}{}
+      \name{author}{8}{}{%
+        {{hash=9b20ab98b4b424a2e7b866fc97d9259d}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Shuai},
+           giveni={S\bibinitperiod}}}%
+        {{hash=862fd7f6da6d51c9c3c775f5e9630aa3}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Modi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4b29556d380075d964a39d66ee74c9f4}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=22faf71eee511296923720a022e0f26b}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Chengyi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=480d2dcf6f9492d724c75d0948827583}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jianbo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2f3ea981fa5a715a69118b48e576a9f5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ca6f05b6b77834ca541d91083b6d14d2}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=05563f997594a8c6fb5b72b88feb1237}{%
+           family={Shang},
+           familyi={S\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{389071e5def9817a3ee3493ac6ff03c0}
+      \strng{fullhash}{1828a511b55fd445cdc3df53af6b1488}
+      \strng{bibnamehash}{389071e5def9817a3ee3493ac6ff03c0}
+      \strng{authorbibnamehash}{389071e5def9817a3ee3493ac6ff03c0}
+      \strng{authornamehash}{389071e5def9817a3ee3493ac6ff03c0}
+      \strng{authorfullhash}{1828a511b55fd445cdc3df53af6b1488}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{17455391}
+      \field{issue}{6}
+      \field{journaltitle}{Progress in Natural Science: Materials International}
+      \field{month}{12}
+      \field{title}{Temperature effect and thermal impact in lithium-ion batteries: A review}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{pages}{653\bibrangedash 666}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.pnsc.2018.11.002
+      \endverb
+      \keyw{Battery management,Internal temperature,Lithium-ion battery,Temperature effect,Thermal management}
+    \endentry
+    \entry{IEEE_AESS_Distinguished_Lecture}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=160584de60975a242049f496c74b6b79}{%
+           family={Gonzalez-Llorente},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Jesus},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{160584de60975a242049f496c74b6b79}
+      \strng{fullhash}{160584de60975a242049f496c74b6b79}
+      \strng{bibnamehash}{160584de60975a242049f496c74b6b79}
+      \strng{authorbibnamehash}{160584de60975a242049f496c74b6b79}
+      \strng{authornamehash}{160584de60975a242049f496c74b6b79}
+      \strng{authorfullhash}{160584de60975a242049f496c74b6b79}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE Aerospace Electronic Systems Society (AESS) Distinguished Lecture}
+      \field{title}{Lecture: Design of Efficient and Electrical Power Systems for Small Spacecraft}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ieee-aess.org/presentation/lecture/design-efficient-and-electrical-power-systems-small-spacecraft
+      \endverb
+      \verb{url}
+      \verb https://ieee-aess.org/presentation/lecture/design-efficient-and-electrical-power-systems-small-spacecraft
+      \endverb
+    \endentry
+    \entry{Cambridge}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d32b7a938bc3954d4dabf6db6bfc0d53}{%
+           family={University},
+           familyi={U\bibinitperiod},
+           given={Cambridge},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{d32b7a938bc3954d4dabf6db6bfc0d53}
+      \strng{fullhash}{d32b7a938bc3954d4dabf6db6bfc0d53}
+      \strng{bibnamehash}{d32b7a938bc3954d4dabf6db6bfc0d53}
+      \strng{authorbibnamehash}{d32b7a938bc3954d4dabf6db6bfc0d53}
+      \strng{authornamehash}{d32b7a938bc3954d4dabf6db6bfc0d53}
+      \strng{authorfullhash}{d32b7a938bc3954d4dabf6db6bfc0d53}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{https://predict.sondehub.org/}
+      \field{title}{Cambridge University Spaceflight Landing Predictor}
+      \field{year}{2013}
+    \endentry
+    \entry{uwyo_balloon_traj}{online}{}
+      \list{organization}{1}{%
+        {University of Wyoming}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{note}{Accedido el 14 de julio de 2023}
+      \field{title}{Upper Air Balloon Trajectory}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://weather.uwyo.edu/upperair/balloon_traj.html
+      \endverb
+      \verb{url}
+      \verb https://weather.uwyo.edu/upperair/balloon_traj.html
+      \endverb
+    \endentry
+    \entry{noaa_wvap_sw}{online}{}
+      \list{organization}{1}{%
+        {NOAA Global Monitoring Laboratory}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{month}{7}
+      \field{note}{Accedido el 14 de julio de 2023}
+      \field{title}{Balloon Prediction - NOAA Global Monitoring Laboratory}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://gml.noaa.gov/ozwv/wvap/sw.html#:~:text=Balloon%20Prediction,accurate%20results%20are%20not%20guaranteed)
+      \endverb
+      \verb{url}
+      \verb https://gml.noaa.gov/ozwv/wvap/sw.html#:~:text=Balloon%20Prediction,accurate%20results%20are%20not%20guaranteed)
+      \endverb
+    \endentry
+    \entry{NOAA2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ccf4fedea4dc4f2f8d4b497515012150}{%
+           family={NOAA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{fullhash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{bibnamehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{authorbibnamehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{authornamehash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \strng{authorfullhash}{ccf4fedea4dc4f2f8d4b497515012150}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs.php}
+      \field{title}{GFS}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs.php
+      \endverb
+      \verb{url}
+      \verb https://www.emc.ncep.noaa.gov/emc/pages/numerical_forecast_systems/gfs.php
+      \endverb
+    \endentry
+    \entry{stratoballoon_eps_batterytest}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7e263e3a45c54cdf5a4997d639c3a373}{%
+           family={AJ23A},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e263e3a45c54cdf5a4997d639c3a373}
+      \strng{fullhash}{7e263e3a45c54cdf5a4997d639c3a373}
+      \strng{bibnamehash}{7e263e3a45c54cdf5a4997d639c3a373}
+      \strng{authorbibnamehash}{7e263e3a45c54cdf5a4997d639c3a373}
+      \strng{authornamehash}{7e263e3a45c54cdf5a4997d639c3a373}
+      \strng{authorfullhash}{7e263e3a45c54cdf5a4997d639c3a373}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/AJ23A/StratoBalloon/tree/master/EPS/Battery_Test}}
+      \field{month}{7}
+      \field{note}{Accedido el 12 de julio de 2023}
+      \field{title}{Battery Test - StratoBalloon EPS}
+      \field{year}{2023}
+    \endentry
+    \entry{osmin-lab}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c211e824c66d874e6aa882890381affc}{%
+           family={Lab},
+           familyi={L\bibinitperiod},
+           given={OSMIN},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{c211e824c66d874e6aa882890381affc}
+      \strng{fullhash}{c211e824c66d874e6aa882890381affc}
+      \strng{bibnamehash}{c211e824c66d874e6aa882890381affc}
+      \strng{authorbibnamehash}{c211e824c66d874e6aa882890381affc}
+      \strng{authornamehash}{c211e824c66d874e6aa882890381affc}
+      \strng{authorfullhash}{c211e824c66d874e6aa882890381affc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/osmin-lab}}
+      \field{note}{Accedido el día de acceso}
+      \field{title}{OSMIN Lab GitHub Repository}
+      \field{year}{Año actual}
+    \endentry
+    \entry{barahona2022diseno}{report}{}
+      \name{author}{2}{}{%
+        {{hash=d73cbabd39a172ad592ef63b8391c6f4}{%
+           family={Barahona},
+           familyi={B\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod}}}%
+        {{hash=72ed1df9200284b6ed888e7ae1ea0c5a}{%
+           family={Pleites},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Don Bosco}%
+      }
+      \list{location}{1}{%
+        {Soyapango}%
+      }
+      \strng{namehash}{058a1acb131aea71e2934ba1e9d2a3dc}
+      \strng{fullhash}{058a1acb131aea71e2934ba1e9d2a3dc}
+      \strng{bibnamehash}{058a1acb131aea71e2934ba1e9d2a3dc}
+      \strng{authorbibnamehash}{058a1acb131aea71e2934ba1e9d2a3dc}
+      \strng{authornamehash}{058a1acb131aea71e2934ba1e9d2a3dc}
+      \strng{authorfullhash}{058a1acb131aea71e2934ba1e9d2a3dc}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Diseño y análisis de un módulo reemplazable para misiones cercanas a la estratosfera (Near-Space LRU)}
+      \field{type}{techreport}
+      \field{year}{2022}
+    \endentry
+    \entry{ford2008design}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a088a31fd10235e0908bf221856e5476}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={Ralph\bibnamedelima Michael},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cf462961eb869df6f09043d9c707f2e1}{%
+           family={Coulston},
+           familyi={C\bibinitperiod},
+           given={Chris\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill}%
+      }
+      \strng{namehash}{686266f9c96879b2515fff630921286d}
+      \strng{fullhash}{686266f9c96879b2515fff630921286d}
+      \strng{bibnamehash}{686266f9c96879b2515fff630921286d}
+      \strng{authorbibnamehash}{686266f9c96879b2515fff630921286d}
+      \strng{authornamehash}{686266f9c96879b2515fff630921286d}
+      \strng{authorfullhash}{686266f9c96879b2515fff630921286d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780071263474, 0071263470}
+      \field{title}{Design for Electrical and Computer Engineers: Theory, Concepts, and Practice}
+      \field{year}{2008}
+    \endentry
+    \entry{arduino-nano}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee5bced252ab77ec8d633c1afda7c5da}{%
+           family={Arduino},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{fullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{bibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorbibnamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authornamehash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \strng{authorfullhash}{ee5bced252ab77ec8d633c1afda7c5da}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Arduino Nano}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://store.arduino.cc/products/arduino-nano
+      \endverb
+      \verb{url}
+      \verb https://store.arduino.cc/products/arduino-nano
+      \endverb
+    \endentry
+    \entry{sparkfun-13712}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=745fa0cbdb15cfd5340d89b422a224ba}{%
+           family={SparkFun},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{fullhash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{bibnamehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{authorbibnamehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{authornamehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{authorfullhash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SparkFun Qwiic Micro OLED - 128x32}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.sparkfun.com/products/13712
+      \endverb
+      \verb{url}
+      \verb https://www.sparkfun.com/products/13712
+      \endverb
+    \endentry
+    \entry{rashid2015electronica}{book}{}
+      \name{author}{1}{}{%
+        {{hash=878f5b85835c2ec57a487b2b1977e44d}{%
+           family={Rashid},
+           familyi={R\bibinitperiod},
+           given={Muhammad\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson}%
+      }
+      \strng{namehash}{878f5b85835c2ec57a487b2b1977e44d}
+      \strng{fullhash}{878f5b85835c2ec57a487b2b1977e44d}
+      \strng{bibnamehash}{878f5b85835c2ec57a487b2b1977e44d}
+      \strng{authorbibnamehash}{878f5b85835c2ec57a487b2b1977e44d}
+      \strng{authornamehash}{878f5b85835c2ec57a487b2b1977e44d}
+      \strng{authorfullhash}{878f5b85835c2ec57a487b2b1977e44d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electrónica de potencia}
+      \field{year}{2015}
+    \endentry
+    \entry{TE2023PE014006}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5fb1318b58e853ec21b14332b4ec60b3}{%
+           family={Connectivity},
+           familyi={C\bibinitperiod},
+           given={TE},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fb1318b58e853ec21b14332b4ec60b3}
+      \strng{fullhash}{5fb1318b58e853ec21b14332b4ec60b3}
+      \strng{bibnamehash}{5fb1318b58e853ec21b14332b4ec60b3}
+      \strng{authorbibnamehash}{5fb1318b58e853ec21b14332b4ec60b3}
+      \strng{authornamehash}{5fb1318b58e853ec21b14332b4ec60b3}
+      \strng{authorfullhash}{5fb1318b58e853ec21b14332b4ec60b3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{PE014006 Power Relay}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.te.com/usa-en/product-1393219-4.datasheet.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.te.com/usa-en/product-1393219-4.datasheet.pdf
+      \endverb
+    \endentry
+    \entry{BS170Datasheet}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=fe0dfc2c75ccc6a497ce45c10f190eeb}{%
+           family={Semiconductor},
+           familyi={S\bibinitperiod},
+           given={On},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{fullhash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{bibnamehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{authorbibnamehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{authornamehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{authorfullhash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{BS173 Datasheet}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.onsemi.com/pdf/datasheet/mmbf173-d.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.onsemi.com/pdf/datasheet/mmbf173-d.pdf
+      \endverb
+    \endentry
+    \entry{2N2222A_Datasheet}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=fe0dfc2c75ccc6a497ce45c10f190eeb}{%
+           family={Semiconductor},
+           familyi={S\bibinitperiod},
+           given={On},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{fullhash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{bibnamehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{authorbibnamehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{authornamehash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \strng{authorfullhash}{fe0dfc2c75ccc6a497ce45c10f190eeb}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{2N2222A Datasheet}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.onsemi.com/pdf/datasheet/p2n2222a-d.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.onsemi.com/pdf/datasheet/p2n2222a-d.pdf
+      \endverb
+    \endentry
+    \entry{arduino_getting_started}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b598dbf106dc6482a73807f769284e79}{%
+           family={Chua},
+           familyi={C\bibinitperiod},
+           given={EH},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b598dbf106dc6482a73807f769284e79}
+      \strng{fullhash}{b598dbf106dc6482a73807f769284e79}
+      \strng{bibnamehash}{b598dbf106dc6482a73807f769284e79}
+      \strng{authorbibnamehash}{b598dbf106dc6482a73807f769284e79}
+      \strng{authornamehash}{b598dbf106dc6482a73807f769284e79}
+      \strng{authorfullhash}{b598dbf106dc6482a73807f769284e79}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nanyang Technological University}
+      \field{title}{Getting Started with Arduino}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www3.ntu.edu.sg/home/ehchua/programming/arduino/arduino.html#:~:text=and%20so%20on.-,5.2%20Driving%20LEDs%20(High%2DCurrent%20Load)%20using%20Power%20Transistor,(or%2020mA%20continuous%20current),
+      \endverb
+      \verb{url}
+      \verb https://www3.ntu.edu.sg/home/ehchua/programming/arduino/arduino.html#:~:text=and%20so%20on.-,5.2%20Driving%20LEDs%20(High%2DCurrent%20Load)%20using%20Power%20Transistor,(or%2020mA%20continuous%20current),
+      \endverb
+    \endentry
+    \entry{sparkfun14544}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2477a7f608e55ef703217df840d0d3df}{%
+           family={Electronics},
+           familyi={E\bibinitperiod},
+           given={SparkFun},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2477a7f608e55ef703217df840d0d3df}
+      \strng{fullhash}{2477a7f608e55ef703217df840d0d3df}
+      \strng{bibnamehash}{2477a7f608e55ef703217df840d0d3df}
+      \strng{authorbibnamehash}{2477a7f608e55ef703217df840d0d3df}
+      \strng{authornamehash}{2477a7f608e55ef703217df840d0d3df}
+      \strng{authorfullhash}{2477a7f608e55ef703217df840d0d3df}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SparkFun Current Sensor Breakout - ACS723 (Low Current)}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.sparkfun.com/products/14544
+      \endverb
+      \verb{url}
+      \verb https://www.sparkfun.com/products/14544
+      \endverb
+    \endentry
+    \entry{Navarathinam2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8bfaf67c0f13123a16ed5bea11ac6092}{%
+           family={Navarathinam},
+           familyi={N\bibinitperiod},
+           given={Nimal},
+           giveni={N\bibinitperiod}}}%
+        {{hash=79cf05ae19b90e8c280d64ccd97d3dac}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Regina},
+           giveni={R\bibinitperiod}}}%
+        {{hash=500fefba43da18c92cfe63123d50e02f}{%
+           family={Chesser},
+           familyi={C\bibinitperiod},
+           given={Hugh},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a186de5d364266c210b039a82a43bcd}
+      \strng{fullhash}{9a186de5d364266c210b039a82a43bcd}
+      \strng{bibnamehash}{9a186de5d364266c210b039a82a43bcd}
+      \strng{authorbibnamehash}{9a186de5d364266c210b039a82a43bcd}
+      \strng{authornamehash}{9a186de5d364266c210b039a82a43bcd}
+      \strng{authorfullhash}{9a186de5d364266c210b039a82a43bcd}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00945765}
+      \field{issue}{11-12}
+      \field{journaltitle}{Acta Astronautica}
+      \field{month}{6}
+      \field{title}{Characterization of Lithium-Polymer batteries for CubeSat applications}
+      \field{volume}{68}
+      \field{year}{2011}
+      \field{pages}{1752\bibrangedash 1760}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.actaastro.2011.02.004
+      \endverb
+      \keyw{Batteries,Nanosatellites,Power management}
+    \endentry
+    \entry{Meyer2020}{report}{}
+      \name{author}{3}{}{%
+        {{hash=80cd1df4f6f15a9f4657548c49a3b0c0}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b1ef15a7751776e11c0e91e6259459d4}{%
+           family={Straub},
+           familyi={S\bibinitperiod},
+           given={Billy},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c4517b4eac0d797a5e8fe1fd2bd504dc}{%
+           family={Flaten},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0e0b9ef165109b97f8f806ac0222812}
+      \strng{fullhash}{c0e0b9ef165109b97f8f806ac0222812}
+      \strng{bibnamehash}{c0e0b9ef165109b97f8f806ac0222812}
+      \strng{authorbibnamehash}{c0e0b9ef165109b97f8f806ac0222812}
+      \strng{authornamehash}{c0e0b9ef165109b97f8f806ac0222812}
+      \strng{authorfullhash}{c0e0b9ef165109b97f8f806ac0222812}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Improving a Low-Cost Thermal-Vac Chamber for Testing Stratospheric Ballooning Payloads}
+      \field{year}{2020}
+      \keyw{ballooning,chamber,environmental,stratospheric,thermal-vac}
+    \endentry
+    \entry{bouwmeester2010survey}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6ebfb8beddd89585f2e3b94b963d8733}{%
+           family={Bouwmeester},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=28f6068ba57e60c5e27fc2490a8e1ffd}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{baf752448d57830d76fde5c2bf2a7f1c}
+      \strng{fullhash}{baf752448d57830d76fde5c2bf2a7f1c}
+      \strng{bibnamehash}{baf752448d57830d76fde5c2bf2a7f1c}
+      \strng{authorbibnamehash}{baf752448d57830d76fde5c2bf2a7f1c}
+      \strng{authornamehash}{baf752448d57830d76fde5c2bf2a7f1c}
+      \strng{authorfullhash}{baf752448d57830d76fde5c2bf2a7f1c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Astronautica}
+      \field{title}{Survey of worldwide pico- and nanosatellite missions, distributions and subsystem technology}
+      \field{volume}{67}
+      \field{year}{2010}
+      \field{pages}{854\bibrangedash 862}
+      \range{pages}{9}
+    \endentry
+    \entry{chin2018energy}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=ef0b1a9a4701df517ddd8a857e8a1a93}{%
+           family={Chin},
+           familyi={C\bibinitperiod},
+           given={K.B.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{fullhash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{bibnamehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{authorbibnamehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{authornamehash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \strng{authorfullhash}{6a7f14a004111aad7d0aac10c2db48b2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{title}{Energy Storage Technologies for Small Satellite Applications}
+      \field{volume}{106}
+      \field{year}{2018}
+      \field{pages}{419\bibrangedash 428}
+      \range{pages}{10}
+    \endentry
+    \entry{panasonic_18650b}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4db2eb60906233021c65b511fe814034}{%
+           family={Panasonic},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{4db2eb60906233021c65b511fe814034}
+      \strng{fullhash}{4db2eb60906233021c65b511fe814034}
+      \strng{bibnamehash}{4db2eb60906233021c65b511fe814034}
+      \strng{authorbibnamehash}{4db2eb60906233021c65b511fe814034}
+      \strng{authornamehash}{4db2eb60906233021c65b511fe814034}
+      \strng{authorfullhash}{4db2eb60906233021c65b511fe814034}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://cdn.shopify.com/s/files/1/0481/9678/0183/files/panasonic_18650b_data_sheet.pdf}}
+      \field{note}{Consultado el 2 de octubre de 2023}
+      \field{title}{Panasonic 18650B Lithium-ion Battery Datasheet}
+      \field{year}{2012}
+    \endentry
+    \entry{Kumar2022}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=d765216716a1057a2944ffe5b7ebba67}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Babu\bibnamedelimb Vishwanath\bibnamedelima Hemath},
+           giveni={B\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=0554cce5797d36135c7543164e80fa0d}{%
+           family={Fuengwarodsakul},
+           familyi={F\bibinitperiod},
+           given={Nisai\bibnamedelima H.},
+           giveni={N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ebf50ee54984d0831ea41931d8f09674}{%
+           family={Worrakul},
+           familyi={W\bibinitperiod},
+           given={Nawarat},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6565667285312097f89a913c55ca1316}{%
+           family={Meemak},
+           familyi={M\bibinitperiod},
+           given={Phongsakorn},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers Inc.}%
+      }
+      \strng{namehash}{725955767d8089314e11a3f351ef8bb1}
+      \strng{fullhash}{7bf231ed4ec5395b17f5b3719a6572c8}
+      \strng{bibnamehash}{7bf231ed4ec5395b17f5b3719a6572c8}
+      \strng{authorbibnamehash}{7bf231ed4ec5395b17f5b3719a6572c8}
+      \strng{authornamehash}{725955767d8089314e11a3f351ef8bb1}
+      \strng{authorfullhash}{7bf231ed4ec5395b17f5b3719a6572c8}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781665460194}
+      \field{journaltitle}{2022 International Conference on Power, Energy and Innovations, ICPEI 2022}
+      \field{title}{Design of Flexible Battery Pack and Battery Management System for Nanosatellite}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1109/ICPEI55293.2022.9987186
+      \endverb
+      \keyw{battery management system,electric power system,lithium-ion battery,nanosatellite}
+    \endentry
+    \entry{MCP73831-datasheet}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5998bf99c9f587bb0118404bcf82b0b7}{%
+           family={Technology},
+           familyi={T\bibinitperiod},
+           given={Microchip},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5998bf99c9f587bb0118404bcf82b0b7}
+      \strng{fullhash}{5998bf99c9f587bb0118404bcf82b0b7}
+      \strng{bibnamehash}{5998bf99c9f587bb0118404bcf82b0b7}
+      \strng{authorbibnamehash}{5998bf99c9f587bb0118404bcf82b0b7}
+      \strng{authornamehash}{5998bf99c9f587bb0118404bcf82b0b7}
+      \strng{authorfullhash}{5998bf99c9f587bb0118404bcf82b0b7}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MCP73831/2 Linear Li-Ion/Li-Polymer Charge Management Controllers}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf
+      \endverb
+      \verb{url}
+      \verb https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf
+      \endverb
+    \endentry
+    \entry{sparkfun-10217}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=745fa0cbdb15cfd5340d89b422a224ba}{%
+           family={SparkFun},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{fullhash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{bibnamehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{authorbibnamehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{authornamehash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \strng{authorfullhash}{745fa0cbdb15cfd5340d89b422a224ba}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SparkFun microSD Breakout Board}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.sparkfun.com/products/10217
+      \endverb
+      \verb{url}
+      \verb https://www.sparkfun.com/products/10217
+      \endverb
+    \endentry
+    \entry{nitecore-d4-charger}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bfe319c996f1be8b05de20b87d7455e0}{%
+           family={Nitecore},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfe319c996f1be8b05de20b87d7455e0}
+      \strng{fullhash}{bfe319c996f1be8b05de20b87d7455e0}
+      \strng{bibnamehash}{bfe319c996f1be8b05de20b87d7455e0}
+      \strng{authorbibnamehash}{bfe319c996f1be8b05de20b87d7455e0}
+      \strng{authornamehash}{bfe319c996f1be8b05de20b87d7455e0}
+      \strng{authorfullhash}{bfe319c996f1be8b05de20b87d7455e0}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nitecore D4 Charger}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.18650batterystore.com/collections/18650-battery-charger/products/nitecore-d4-charger
+      \endverb
+      \verb{url}
+      \verb https://www.18650batterystore.com/collections/18650-battery-charger/products/nitecore-d4-charger
+      \endverb
+    \endentry
+    \entry{digikey-linear-regulators}{article}{}
+      \name{author}{1}{}{%
+        {{hash=65ff36ed5b69f85669e6f0f975d8c077}{%
+           family={Electronics},
+           familyi={E\bibinitperiod},
+           given={Digi-Key},
+           giveni={D\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{65ff36ed5b69f85669e6f0f975d8c077}
+      \strng{fullhash}{65ff36ed5b69f85669e6f0f975d8c077}
+      \strng{bibnamehash}{65ff36ed5b69f85669e6f0f975d8c077}
+      \strng{authorbibnamehash}{65ff36ed5b69f85669e6f0f975d8c077}
+      \strng{authornamehash}{65ff36ed5b69f85669e6f0f975d8c077}
+      \strng{authorfullhash}{65ff36ed5b69f85669e6f0f975d8c077}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Digi-Key Electronics}
+      \field{title}{Understanding the Advantages and Disadvantages of Linear Regulators}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.digikey.com/en/articles/understanding-the-advantages-and-disadvantages-of-linear-regulators
+      \endverb
+      \verb{url}
+      \verb https://www.digikey.com/en/articles/understanding-the-advantages-and-disadvantages-of-linear-regulators
+      \endverb
+    \endentry
+    \entry{analog_lt1117fd}{datasheet}{}
+      \name{author}{1}{}{%
+        {{hash=7815b752ccbb7c090ede5e1735d80962}{%
+           family={Devices},
+           familyi={D\bibinitperiod},
+           given={Analog},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Analog Devices}%
+      }
+      \strng{namehash}{7815b752ccbb7c090ede5e1735d80962}
+      \strng{fullhash}{7815b752ccbb7c090ede5e1735d80962}
+      \strng{bibnamehash}{7815b752ccbb7c090ede5e1735d80962}
+      \strng{authorbibnamehash}{7815b752ccbb7c090ede5e1735d80962}
+      \strng{authornamehash}{7815b752ccbb7c090ede5e1735d80962}
+      \strng{authorfullhash}{7815b752ccbb7c090ede5e1735d80962}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LT1117FD 800mA Low Dropout Positive Regulator}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/1117fd.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/1117fd.pdf
+      \endverb
+    \endentry
+    \entry{ti_mc34063a}{datasheet}{}
+      \name{author}{1}{}{%
+        {{hash=98891ef37ae74f3a00ae9a7c9c316e78}{%
+           family={Instruments},
+           familyi={I\bibinitperiod},
+           given={Texas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Texas Instruments}%
+      }
+      \strng{namehash}{98891ef37ae74f3a00ae9a7c9c316e78}
+      \strng{fullhash}{98891ef37ae74f3a00ae9a7c9c316e78}
+      \strng{bibnamehash}{98891ef37ae74f3a00ae9a7c9c316e78}
+      \strng{authorbibnamehash}{98891ef37ae74f3a00ae9a7c9c316e78}
+      \strng{authornamehash}{98891ef37ae74f3a00ae9a7c9c316e78}
+      \strng{authorfullhash}{98891ef37ae74f3a00ae9a7c9c316e78}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MC34063A 1.5-A Peak Boost/Buck/Inverting Switching Regulators}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ti.com/lit/ds/symlink/mc34063a.pdf?ts=1698734670358&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FMC34063A
+      \endverb
+      \verb{url}
+      \verb https://www.ti.com/lit/ds/symlink/mc34063a.pdf?ts=1698734670358&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FMC34063A
+      \endverb
+    \endentry
+    \entry{nomad_ee_mc34063a}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=7a330e05d3926b557bf962ef22ff71d5}{%
+           family={Nomad.ee},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a330e05d3926b557bf962ef22ff71d5}
+      \strng{fullhash}{7a330e05d3926b557bf962ef22ff71d5}
+      \strng{bibnamehash}{7a330e05d3926b557bf962ef22ff71d5}
+      \strng{authorbibnamehash}{7a330e05d3926b557bf962ef22ff71d5}
+      \strng{authornamehash}{7a330e05d3926b557bf962ef22ff71d5}
+      \strng{authorfullhash}{7a330e05d3926b557bf962ef22ff71d5}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MC34063A design tool}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.nomad.ee/micros/mc34063a/
+      \endverb
+      \verb{url}
+      \verb https://www.nomad.ee/micros/mc34063a/
+      \endverb
+    \endentry
+    \entry{Kopczynski2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=57e56f2463e01c4c5639640e1ab67f78}{%
+           family={Kopczyński},
+           familyi={K\bibinitperiod},
+           given={Artur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5d001fc4903041413c1255f7ddfce758}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhiyin},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=da7281a8343224243d1de84122eb65de}{%
+           family={Krawczyk},
+           familyi={K\bibinitperiod},
+           given={Paweł},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ecb23895026ecc1ccb17a2968d4ff45b}
+      \strng{fullhash}{ecb23895026ecc1ccb17a2968d4ff45b}
+      \strng{bibnamehash}{ecb23895026ecc1ccb17a2968d4ff45b}
+      \strng{authorbibnamehash}{ecb23895026ecc1ccb17a2968d4ff45b}
+      \strng{authornamehash}{ecb23895026ecc1ccb17a2968d4ff45b}
+      \strng{authorfullhash}{ecb23895026ecc1ccb17a2968d4ff45b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2267-1242}
+      \field{journaltitle}{E3S Web of Conferences}
+      \field{month}{7}
+      \field{title}{Parametric analysis of Li-ion battery based on laboratory tests}
+      \field{volume}{44}
+      \field{year}{2018}
+      \field{pages}{00074}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1051/e3sconf/20184400074
+      \endverb
+    \endentry
+    \entry{knight2015lithium}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6ebe581dd2cf7237f76d39917140267}{%
+           family={{Knight, Dave}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6ebe581dd2cf7237f76d39917140267}
+      \strng{fullhash}{d6ebe581dd2cf7237f76d39917140267}
+      \strng{bibnamehash}{d6ebe581dd2cf7237f76d39917140267}
+      \strng{authorbibnamehash}{d6ebe581dd2cf7237f76d39917140267}
+      \strng{authornamehash}{d6ebe581dd2cf7237f76d39917140267}
+      \strng{authorfullhash}{d6ebe581dd2cf7237f76d39917140267}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{DigiKey Maker Tutorials}
+      \field{note}{Publicado el 14 de diciembre de 2015}
+      \field{title}{{Lithium Ion Cell Protection}}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://www.digikey.com/en/maker/tutorials/2016/lithium-ion-cell-protection
+      \endverb
+      \verb{url}
+      \verb https://www.digikey.com/en/maker/tutorials/2016/lithium-ion-cell-protection
+      \endverb
+    \endentry
+    \entry{diodes2023ap9101c}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=800c1b26873a5ebb93b90393c92c9fb3}{%
+           family={Incorporated},
+           familyi={I\bibinitperiod},
+           given={Diodes},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{800c1b26873a5ebb93b90393c92c9fb3}
+      \strng{fullhash}{800c1b26873a5ebb93b90393c92c9fb3}
+      \strng{bibnamehash}{800c1b26873a5ebb93b90393c92c9fb3}
+      \strng{authorbibnamehash}{800c1b26873a5ebb93b90393c92c9fb3}
+      \strng{authornamehash}{800c1b26873a5ebb93b90393c92c9fb3}
+      \strng{authorfullhash}{800c1b26873a5ebb93b90393c92c9fb3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AP9101C Lithium-Ion/Lithium Polymer Battery Protection IC}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.diodes.com/assets/Datasheets/products_inactive_data/AP9101C.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.diodes.com/assets/Datasheets/products_inactive_data/AP9101C.pdf
+      \endverb
+    \endentry
+    \entry{LTC4361}{report}{}
+      \name{author}{1}{}{%
+        {{hash=43d1d0b28ff176d3a6aea2cfdcffab1b}{%
+           family={Technology},
+           familyi={T\bibinitperiod},
+           given={Linear},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Linear Technology}%
+      }
+      \strng{namehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{fullhash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{bibnamehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{authorbibnamehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{authornamehash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \strng{authorfullhash}{43d1d0b28ff176d3a6aea2cfdcffab1b}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{LTC4361/LTC4361-1 Overvoltage/Overcurrent Protection Controller}
+      \field{type}{techreport}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4361-1-4361-2.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.analog.com/media/en/technical-documentation/data-sheets/LTC4361-1-4361-2.pdf
+      \endverb
+    \endentry
+    \entry{labralab_pull_pin_switch_kit_2023}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3320687322b68f3c5dd9affdfbf87090}{%
+           family={Rocketry},
+           familyi={R\bibinitperiod},
+           given={LabraLab},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{3320687322b68f3c5dd9affdfbf87090}
+      \strng{fullhash}{3320687322b68f3c5dd9affdfbf87090}
+      \strng{bibnamehash}{3320687322b68f3c5dd9affdfbf87090}
+      \strng{authorbibnamehash}{3320687322b68f3c5dd9affdfbf87090}
+      \strng{authornamehash}{3320687322b68f3c5dd9affdfbf87090}
+      \strng{authorfullhash}{3320687322b68f3c5dd9affdfbf87090}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pull-pin switch kit}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.labratrocketry.com/product-page/pull-pin-switch-kit
+      \endverb
+      \verb{url}
+      \verb https://www.labratrocketry.com/product-page/pull-pin-switch-kit
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

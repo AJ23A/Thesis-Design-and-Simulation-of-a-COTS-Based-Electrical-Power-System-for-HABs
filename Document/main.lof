@@ -1,0 +1,73 @@
+\vskip 35pt
+{\itshape Número}\hfill {\itshape Página}\par 
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \emph {High Altitude Balloon}. Fuente: engineering.nd.edu }}{7}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \emph {Zero-Pressure Balloon}. Fuente: https://stratocat.com.ar/ }}{8}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \emph {Super-Pressure Balloon}. Fuente: nasa.gov }}{8}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Fases del modelo en V}}{11}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Valores de entrada para simulador de trayectoria CUSF }}{14}{figure.caption.22}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Predicción realizada en CUSF visualizada en Google Earth }}{14}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Variables atmosféricas simuladas para una misión de HAB hacia 30 km.}}{15}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Estructura de impresión 3D}}{17}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Dimensiones de PCB en [mm]}}{17}{figure.caption.28}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Diagrama funcional Nivel 0.}}{20}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagrama funcional Nivel 1.}}{21}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagrama funcional Nivel 2, Instrumentación.}}{25}{figure.caption.41}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Placa de desarrollo Arduino Nano}}{28}{figure.caption.46}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Módulo Datalogger Openlog de Sparkfun}}{29}{figure.caption.49}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Transistores BJT y MOSFET comerciales}}{32}{figure.caption.53}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Variación de la Potencia Disipada en el 2N2222A en Función de la Temperatura Ambiente \blx@tocontentsinit {0}\cite {2N2222A_Datasheet}}}{34}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Variación de la Resistencia Interna en Función de la Corriente a Distintas Temperaturas Ambiente para un MOSFET BS170 \blx@tocontentsinit {0}\cite {BS170Datasheet}}}{34}{figure.caption.57}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces $V_{GS}$ para bus de 3.3 V a 100 [mA]. \blx@tocontentsinit {0}\cite {BS170Datasheet}}}{36}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces $V_{GS}$ para bus de 5.0 V a 300 [mA]. \blx@tocontentsinit {0}\cite {BS170Datasheet}}}{36}{figure.caption.61}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Esquemático y vista 3D de la etapa de potencia con MOSFET BS170.}}{36}{figure.caption.62}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Sensor ACS723 de Sparkfun.}}{40}{figure.caption.68}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces (a) Battery types used in pico- and nano-satellites\blx@tocontentsinit {0}\cite {bouwmeester2010survey}. (b) Summary of maximum discharge rate capabilities versus nameplate capacity of some representative COTS 18650 Li-ion cells \blx@tocontentsinit {0}\cite {chin2018energy}}}{43}{figure.caption.71}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Banco de baterías en arreglo 4s1p a 14.4 V.}}{44}{figure.caption.73}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Banco de baterías en arreglo 2s2p a 7.2 V.}}{44}{figure.caption.74}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Banco de baterías en arreglo 1s4p a 3.6 V.}}{44}{figure.caption.75}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Banco de baterías}}{44}{figure.caption.76}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Circuito de carga MCP73831T-2ACI/OT configurado a 500 mA. }}{46}{figure.caption.77}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Cargador de baterías}}{46}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Circuito Integrado LT1117}}{49}{figure.caption.84}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Esquemático del regulador lineal LT1117}}{49}{figure.caption.85}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Eficiencia del regulador LT1117 en función del voltaje de entrada ($V_{in}$)}}{51}{figure.caption.86}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Circuito Integrado MC34063A}}{52}{figure.caption.87}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Configuraciones MC34063A}}{52}{figure.caption.88}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Convertidor DC-DC MC34063A, arreglo 4s1p, bus de 3.3 V a 750 mA.}}{54}{figure.caption.92}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Convertidor DC-DC MC34063A, arreglo 4s1p, bus de 3.3 V a 750 mA. Inductancia ajustada a 30 uH.}}{55}{figure.caption.93}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Convertidor DC-DC MC34063A, arreglo 4s1p, bus de 5.0 V a 750 mA.}}{56}{figure.caption.95}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Convertidor DC-DC MC34063A, arreglo 2s2p, bus de 3.3 V a 750 mA.}}{57}{figure.caption.98}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Convertidor DC-DC MC34063A, arreglo 2s2p, bus de 5.0 V a 500 mA.}}{59}{figure.caption.100}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Discharging characteristic of Panasonic NCR-18650B battery with different discharging current at room temperature (20°C). Fuente: Adaptado de \blx@tocontentsinit {0}\cite {Kopczynski2018}, con licencia CC BY 4.0}}{59}{figure.caption.102}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Esquemático del convertidor DC-DC con MC34063A. Entrada nominal de 14.4V, salida de 3.3V a 750 mA.}}{61}{figure.caption.104}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Diseño de PCB para el convertidor DC-DC con MC34063A. Entrada nominal de 14.4V, salida de 3.3V a 750 mA.}}{61}{figure.caption.105}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Vista 3D de la PCB para el convertidor DC-DC con MC34063A. Entrada nominal de 14.4V, salida de 3.3V a 750 mA.}}{62}{figure.caption.106}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Esquemático del convertidor DC-DC con MC34063A. Entrada nominal de 14.4V, salida de 5.0V a 750 mA.}}{62}{figure.caption.107}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Diseño de PCB del convertidor DC-DC con MC34063A. Entrada nominal de 14.4V, salida de 5.0V a 750 mA.}}{63}{figure.caption.108}%
+\contentsline {figure}{\numberline {5.33}{\ignorespaces Vista 3D del diseño del convertidor DC-DC con MC34063A. Entrada nominal de 14.4V, salida de 5.0V a 750 mA.}}{63}{figure.caption.109}%
+\contentsline {figure}{\numberline {5.34}{\ignorespaces Esquemático de circuito de protección AP9101C \blx@tocontentsinit {0}\cite {diodes2023ap9101c}. Los valores son los sugeridos por el fabricante. El modelo MOSFET se recomienda el modelo DMG6968 de Diodes Incorporated.}}{66}{figure.caption.114}%
+\contentsline {figure}{\numberline {5.35}{\ignorespaces Esquemático de circuito de protección LT4361 \blx@tocontentsinit {0}\cite {LTC4361}. Los valores son los sugeridos por el fabricante. Se calculó \(R_{\text {sense}} = 0.33 \ \Omega \) para \(I_{\text {trip}} = 1.5 \ \text {A}\).}}{69}{figure.caption.118}%
+\contentsline {figure}{\numberline {5.36}{\ignorespaces PCB y Vista 3D del circuito de protección LTC4361}}{69}{figure.caption.119}%
+\contentsline {figure}{\numberline {5.37}{\ignorespaces Interruptor de 4 polos uxcell}}{70}{figure.caption.121}%
+\contentsline {figure}{\numberline {5.38}{\ignorespaces Interruptor "Remove before flight \blx@tocontentsinit {0}\cite {labralab_pull_pin_switch_kit_2023}}}{70}{figure.caption.122}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Flujograma de algoritmo de programación para EPS}}{72}{figure.caption.123}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Esquemático de EPS Integrado, Parte I.}}{73}{figure.caption.124}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Esquemático de EPS Integrado, Parte II.}}{74}{figure.caption.125}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Esquemático de EPS Integrado, Parte III.}}{75}{figure.caption.126}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Esquemático de EPS Integrado, Parte IV.}}{76}{figure.caption.127}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Esquemático de EPS Integrado, Parte V.}}{77}{figure.caption.128}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Vista frontal 3D de PCB 1 del EPS.}}{78}{figure.caption.129}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Vista trasera 3D de PCB 1 del EPS.}}{78}{figure.caption.130}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Vista frontal 3D de PCB 2 del EPS.}}{79}{figure.caption.131}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Vista trasera 3D de PCB 2 del EPS.}}{79}{figure.caption.132}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
