@@ -1,6 +1,5 @@
 # Thesis-Design-and-Simulation-of-a-COTS-Based-Electrical-Power-System-for-HABs
 
-<h1 align="left">Hi there Electrial Engineering Thesis </h1>
 <h3 align="left">Author: Josué Romeo Aldana Aguilar </h3>
  <img src="https://komarev.com/ghpvc/?username=aj23a" alt="aj23a" /> 
 <p align="left">
