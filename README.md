@@ -1,4 +1,4 @@
-# 📄Thesis-Design-and-Simulation-of-a-COTS-Based-Electrical-Power-System-for-HABs
+# 📄Thesis Design and Simulation of a COTS Based Electrical Power System for HABs
 
 <h3 align="left">Author: Josue Aldana-Aguilar </h3>
 <p align="left">
